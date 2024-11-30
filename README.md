@@ -31,7 +31,7 @@ This project implements a smart system to distinguish between elevator and stair
 ### Software Setup  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/lift-vs-stair-detector.git
+   git clone https://github.com/Aroosa-Batool/Lift-vs.-Stair-Detector.git
    cd lift-vs-stair-detector
 2. Install dependencies for the backend:
     ```bash

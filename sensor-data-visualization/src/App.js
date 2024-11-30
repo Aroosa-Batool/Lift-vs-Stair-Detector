@@ -1,5 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
+import React, { useState, useEffect } from 'react';
+import axios from 'axios'; 
+
 
 function App() {
   const [data, setData] = useState([]);
@@ -17,7 +20,7 @@ function App() {
   }, []);
 
   return (
-    <div>
+    <div  class = "data" > 
       <h1>Sensor Data</h1>
       <table border="1">
         <thead>

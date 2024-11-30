@@ -14,7 +14,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #154cba;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -35,4 +35,27 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+h1 {
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif  ;
+  font-size: 36px;
+  color: #690e40;
+  text-align: center;
+}
+table {
+  width: 100%;
+  border-collapse: collapse; /* Ensures there are no gaps between table cells */
+}
+
+th {
+  background-color: #690e40;  /* Green background for the header */
+  color: white;  /* White text color */
+  text-align: left;  /* Align text to the left */
+  padding: 10px;  /* Add some padding to each header cell */
+  font-size: 16px;  /* Set font size */
+}
+
+th:hover {
+  background-color: #530430;  /* Change background color on hover */
 }

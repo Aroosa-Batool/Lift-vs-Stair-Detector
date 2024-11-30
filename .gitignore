@@ -1,0 +1,45 @@
+# Dependency directories
+node_modules/
+bower_components/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor specific files
+.vscode/
+.idea/
+*.swp
+
+# Dependency lock files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Build output
+dist/
+build/
+out/
+
+# Coverage
+coverage/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# Others
+*.zip
+*.tar
+*.gz

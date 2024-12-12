@@ -1,0 +1,30 @@
+.going-down-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #f0f8ff; /* Light blue background */
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  .going-down-title {
+    font-size: 2.5rem;
+    color: #003366; /* Dark blue */
+    margin-bottom: 1rem;
+  }
+  
+  .arrow-container {
+    margin: 1rem 0;
+  }
+  
+  .arrow-gif {
+    width: 150px;
+    height: auto;
+  }
+  
+  .going-down-text {
+    color: #901e1e; /* Grey text */
+  }
+  

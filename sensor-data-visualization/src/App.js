@@ -2,22 +2,34 @@ import logo from './logo.svg';
 import './App.css';
 import React, { useState, useEffect } from 'react';
 import axios from 'axios'; 
-
-
+import { BrowserRouter as Router, Route, Routes, useNavigate } from "react-router-dom";
+import GoingDown from './GoingDown';
+import GoingUp from './GoingUp';
+import LiftDown from './LiftDown';
+import LiftUp from './LiftUp';
 function App() {
   const [data, setData] = useState([]);
+  const navigate = useNavigate();
+  
 
   useEffect(() => {
     const fetchData = async () => {
       try {
         const response = await axios.get("http://localhost:3000/api/data");
         setData(response.data);
+
+        //going down
+        const isGoingDown = response.data.some(item => item.acceleration_z < -0.5);
+        if (isGoingDown) {
+          navigate("/going-down");
+        }
+
       } catch (error) {
         console.error("Error fetching data:", error);
       }
     };
     fetchData();
-  }, []);
+  }, [navigate]);
 
   return (
     <div  class = "data" > 
@@ -49,5 +61,19 @@ function App() {
     </div>
   );
 }
+function MainApp() {
+  return (
+    <Router>
+      <Routes>
+        <Route path="/" element={<App />} />
+        <Route path="/going-down" element={<GoingDown />} />
+        <Route path="/going-up" element={<GoingUp />} />
+        <Route path="/lift-up" element={<LiftUp />} />
+        <Route path="/lift-down" element={<LiftDown />} />
 
-export default App;
+
+      </Routes>
+    </Router>
+  );
+}
+export default MainApp;

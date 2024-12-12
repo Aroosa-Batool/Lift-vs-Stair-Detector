@@ -60,3 +60,15 @@ th {
 th:hover {
   background-color: #530430;  /* Change background color on hover */
 }
+.bounce {
+  animation: bounce 1s infinite;
+}
+
+@keyframes bounce {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(10px);
+  }
+}

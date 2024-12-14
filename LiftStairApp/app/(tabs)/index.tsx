@@ -41,7 +41,7 @@ export default function HomeScreen() {
 
         // Navigation logic based on new data
         if (newData.acceleration_z < -0.5) {
-      //    navigation.navigate("GoingDown");
+          navigation.navigate("GoingDown");
         } else if (newData.acceleration_z > 0.5) {
       //    navigation.navigate("GoingUp");
         }

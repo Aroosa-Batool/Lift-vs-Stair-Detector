@@ -1,0 +1,4970 @@
+[{
+  "_id": {
+    "$oid": "6762cbe38c5537c504962041"
+  },
+  "pressure": 93786.39,
+  "altitude": 647.33,
+  "acceleration_x": -0.94,
+  "acceleration_y": -1.54,
+  "acceleration_z": 9.16,
+  "timestamp": {
+    "$date": "2024-12-18T13:19:31.932Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cbe68c5537c504962043"
+  },
+  "pressure": 97308.95,
+  "altitude": 339.8,
+  "acceleration_x": -0.94,
+  "acceleration_y": -1.56,
+  "acceleration_z": 9.33,
+  "timestamp": {
+    "$date": "2024-12-18T13:19:34.105Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cbe88c5537c504962045"
+  },
+  "pressure": 97311.24,
+  "altitude": 339.6,
+  "acceleration_x": -0.91,
+  "acceleration_y": -1.54,
+  "acceleration_z": 9.31,
+  "timestamp": {
+    "$date": "2024-12-18T13:19:36.252Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cbea8c5537c504962047"
+  },
+  "pressure": 97324.51,
+  "altitude": 338.46,
+  "acceleration_x": -0.94,
+  "acceleration_y": -1.59,
+  "acceleration_z": 9.3,
+  "timestamp": {
+    "$date": "2024-12-18T13:19:38.404Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cbec8c5537c504962049"
+  },
+  "pressure": 97307.12,
+  "altitude": 339.96,
+  "acceleration_x": -0.95,
+  "acceleration_y": -1.57,
+  "acceleration_z": 9.31,
+  "timestamp": {
+    "$date": "2024-12-18T13:19:40.512Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cbee8c5537c50496204b"
+  },
+  "pressure": 97316.44,
+  "altitude": 339.16,
+  "acceleration_x": -0.94,
+  "acceleration_y": -1.58,
+  "acceleration_z": 9.31,
+  "timestamp": {
+    "$date": "2024-12-18T13:19:42.629Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cbf08c5537c50496204d"
+  },
+  "pressure": 97300.11,
+  "altitude": 340.56,
+  "acceleration_x": -0.89,
+  "acceleration_y": -1.55,
+  "acceleration_z": 9.32,
+  "timestamp": {
+    "$date": "2024-12-18T13:19:44.853Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cbf58c5537c50496204f"
+  },
+  "pressure": 97312.3,
+  "altitude": 339.51,
+  "acceleration_x": -0.94,
+  "acceleration_y": -1.58,
+  "acceleration_z": 9.31,
+  "timestamp": {
+    "$date": "2024-12-18T13:19:49.783Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cbf88c5537c504962052"
+  },
+  "pressure": 97310.48,
+  "altitude": 339.67,
+  "acceleration_x": -0.93,
+  "acceleration_y": -1.58,
+  "acceleration_z": 9.33,
+  "timestamp": {
+    "$date": "2024-12-18T13:19:52.023Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cbfa8c5537c504962054"
+  },
+  "pressure": 97313.07,
+  "altitude": 339.45,
+  "acceleration_x": -0.91,
+  "acceleration_y": -1.58,
+  "acceleration_z": 9.36,
+  "timestamp": {
+    "$date": "2024-12-18T13:19:54.154Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cbfc8c5537c504962056"
+  },
+  "pressure": 97305.29,
+  "altitude": 340.12,
+  "acceleration_x": -0.94,
+  "acceleration_y": -1.58,
+  "acceleration_z": 9.29,
+  "timestamp": {
+    "$date": "2024-12-18T13:19:56.251Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cbfe8c5537c504962058"
+  },
+  "pressure": 97305.29,
+  "altitude": 340.12,
+  "acceleration_x": -0.93,
+  "acceleration_y": -1.59,
+  "acceleration_z": 9.31,
+  "timestamp": {
+    "$date": "2024-12-18T13:19:58.472Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cc008c5537c50496205a"
+  },
+  "pressure": 97314.89,
+  "altitude": 339.29,
+  "acceleration_x": -0.95,
+  "acceleration_y": -1.59,
+  "acceleration_z": 9.29,
+  "timestamp": {
+    "$date": "2024-12-18T13:20:00.601Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cc028c5537c50496205c"
+  },
+  "pressure": 97308.95,
+  "altitude": 339.8,
+  "acceleration_x": -0.92,
+  "acceleration_y": -1.57,
+  "acceleration_z": 9.29,
+  "timestamp": {
+    "$date": "2024-12-18T13:20:02.772Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cc048c5537c50496205e"
+  },
+  "pressure": 97314.89,
+  "altitude": 339.29,
+  "acceleration_x": -0.93,
+  "acceleration_y": -1.61,
+  "acceleration_z": 9.3,
+  "timestamp": {
+    "$date": "2024-12-18T13:20:04.881Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cc068c5537c504962060"
+  },
+  "pressure": 97303.76,
+  "altitude": 340.25,
+  "acceleration_x": -0.94,
+  "acceleration_y": -1.6,
+  "acceleration_z": 9.29,
+  "timestamp": {
+    "$date": "2024-12-18T13:20:06.998Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cc098c5537c504962062"
+  },
+  "pressure": 97314.89,
+  "altitude": 339.29,
+  "acceleration_x": -0.95,
+  "acceleration_y": -1.59,
+  "acceleration_z": 9.28,
+  "timestamp": {
+    "$date": "2024-12-18T13:20:09.109Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cc0b8c5537c504962064"
+  },
+  "pressure": 97303.46,
+  "altitude": 340.27,
+  "acceleration_x": -0.94,
+  "acceleration_y": -1.6,
+  "acceleration_z": 9.3,
+  "timestamp": {
+    "$date": "2024-12-18T13:20:11.224Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cc0d8c5537c504962066"
+  },
+  "pressure": 97310.48,
+  "altitude": 339.67,
+  "acceleration_x": -0.94,
+  "acceleration_y": -1.58,
+  "acceleration_z": 9.3,
+  "timestamp": {
+    "$date": "2024-12-18T13:20:13.422Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cc0f8c5537c504962068"
+  },
+  "pressure": 97312.3,
+  "altitude": 339.51,
+  "acceleration_x": -5.58,
+  "acceleration_y": 2.64,
+  "acceleration_z": 4.92,
+  "timestamp": {
+    "$date": "2024-12-18T13:20:15.540Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cc118c5537c50496206a"
+  },
+  "pressure": 97311.54,
+  "altitude": 339.58,
+  "acceleration_x": 0.45,
+  "acceleration_y": 1.19,
+  "acceleration_z": -10.33,
+  "timestamp": {
+    "$date": "2024-12-18T13:20:17.723Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cc138c5537c50496206c"
+  },
+  "pressure": 97308.95,
+  "altitude": 339.8,
+  "acceleration_x": 0.98,
+  "acceleration_y": 5.36,
+  "acceleration_z": -7.94,
+  "timestamp": {
+    "$date": "2024-12-18T13:20:19.828Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cc158c5537c50496206e"
+  },
+  "pressure": 97303.76,
+  "altitude": 340.25,
+  "acceleration_x": 1.33,
+  "acceleration_y": 3.62,
+  "acceleration_z": -9.51,
+  "timestamp": {
+    "$date": "2024-12-18T13:20:21.947Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cc188c5537c504962070"
+  },
+  "pressure": 97309.89,
+  "altitude": 339.72,
+  "acceleration_x": 1.84,
+  "acceleration_y": 3.54,
+  "acceleration_z": -9.49,
+  "timestamp": {
+    "$date": "2024-12-18T13:20:24.057Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cc1a8c5537c504962072"
+  },
+  "pressure": 97310.33,
+  "altitude": 339.68,
+  "acceleration_x": 1.66,
+  "acceleration_y": 3.68,
+  "acceleration_z": -9.55,
+  "timestamp": {
+    "$date": "2024-12-18T13:20:26.156Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cc1c8c5537c504962074"
+  },
+  "pressure": 97309.56,
+  "altitude": 339.75,
+  "acceleration_x": 1.57,
+  "acceleration_y": 3.81,
+  "acceleration_z": -9.52,
+  "timestamp": {
+    "$date": "2024-12-18T13:20:28.257Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cc1e8c5537c504962076"
+  },
+  "pressure": 97312.92,
+  "altitude": 339.46,
+  "acceleration_x": 1.66,
+  "acceleration_y": 3.82,
+  "acceleration_z": -9.41,
+  "timestamp": {
+    "$date": "2024-12-18T13:20:30.420Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cc208c5537c504962078"
+  },
+  "pressure": 97307.3,
+  "altitude": 339.94,
+  "acceleration_x": 1.57,
+  "acceleration_y": 3.9,
+  "acceleration_z": -9.58,
+  "timestamp": {
+    "$date": "2024-12-18T13:20:32.570Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cc228c5537c50496207a"
+  },
+  "pressure": 97318.11,
+  "altitude": 339.24,
+  "acceleration_x": -4.63,
+  "acceleration_y": 6.16,
+  "acceleration_z": -6.83,
+  "timestamp": {
+    "$date": "2024-12-18T13:20:34.719Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cc248c5537c50496207c"
+  },
+  "pressure": 97312.92,
+  "altitude": 339.46,
+  "acceleration_x": -2.63,
+  "acceleration_y": 2.4,
+  "acceleration_z": 8.24,
+  "timestamp": {
+    "$date": "2024-12-18T13:20:36.875Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cc268c5537c50496207e"
+  },
+  "pressure": 97310.8,
+  "altitude": 339.64,
+  "acceleration_x": -0.92,
+  "acceleration_y": 1.17,
+  "acceleration_z": 10.52,
+  "timestamp": {
+    "$date": "2024-12-18T13:20:38.987Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cc298c5537c504962080"
+  },
+  "pressure": 97320.09,
+  "altitude": 338.84,
+  "acceleration_x": -0.41,
+  "acceleration_y": -1.1,
+  "acceleration_z": 9.4,
+  "timestamp": {
+    "$date": "2024-12-18T13:20:41.172Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cc2b8c5537c504962082"
+  },
+  "pressure": 97312,
+  "altitude": 339.54,
+  "acceleration_x": -0.49,
+  "acceleration_y": -1.11,
+  "acceleration_z": 9.39,
+  "timestamp": {
+    "$date": "2024-12-18T13:20:43.304Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cc2d8c5537c504962084"
+  },
+  "pressure": 97308.65,
+  "altitude": 339.83,
+  "acceleration_x": -0.46,
+  "acceleration_y": -1.14,
+  "acceleration_z": 9.41,
+  "timestamp": {
+    "$date": "2024-12-18T13:20:45.471Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cc2f8c5537c504962086"
+  },
+  "pressure": 97314.31,
+  "altitude": 339.34,
+  "acceleration_x": -0.47,
+  "acceleration_y": -1.14,
+  "acceleration_z": 9.44,
+  "timestamp": {
+    "$date": "2024-12-18T13:20:47.583Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cc318c5537c504962088"
+  },
+  "pressure": 97314.77,
+  "altitude": 339.3,
+  "acceleration_x": -0.45,
+  "acceleration_y": -1.2,
+  "acceleration_z": 9.38,
+  "timestamp": {
+    "$date": "2024-12-18T13:20:49.772Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cc338c5537c50496208a"
+  },
+  "pressure": 97311.56,
+  "altitude": 339.58,
+  "acceleration_x": -0.45,
+  "acceleration_y": -1.17,
+  "acceleration_z": 9.39,
+  "timestamp": {
+    "$date": "2024-12-18T13:20:51.883Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cc368c5537c50496208c"
+  },
+  "pressure": 97310.5,
+  "altitude": 339.67,
+  "acceleration_x": -0.43,
+  "acceleration_y": -1.17,
+  "acceleration_z": 9.38,
+  "timestamp": {
+    "$date": "2024-12-18T13:20:54.079Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cc388c5537c50496208e"
+  },
+  "pressure": 97310.94,
+  "altitude": 339.63,
+  "acceleration_x": -0.39,
+  "acceleration_y": -1.21,
+  "acceleration_z": 9.42,
+  "timestamp": {
+    "$date": "2024-12-18T13:20:56.230Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cc3a8c5537c504962090"
+  },
+  "pressure": 97311.44,
+  "altitude": 339.59,
+  "acceleration_x": -0.34,
+  "acceleration_y": -1.19,
+  "acceleration_z": 9.41,
+  "timestamp": {
+    "$date": "2024-12-18T13:20:58.342Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cc3c8c5537c504962092"
+  },
+  "pressure": 97312.94,
+  "altitude": 339.46,
+  "acceleration_x": -0.27,
+  "acceleration_y": -1.2,
+  "acceleration_z": 9.42,
+  "timestamp": {
+    "$date": "2024-12-18T13:21:00.527Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cc3e8c5537c504962094"
+  },
+  "pressure": 97311.11,
+  "altitude": 339.62,
+  "acceleration_x": -0.51,
+  "acceleration_y": -1.23,
+  "acceleration_z": 9.59,
+  "timestamp": {
+    "$date": "2024-12-18T13:21:02.674Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cc408c5537c504962096"
+  },
+  "pressure": 97316,
+  "altitude": 339.19,
+  "acceleration_x": 0.51,
+  "acceleration_y": 1.84,
+  "acceleration_z": -10.04,
+  "timestamp": {
+    "$date": "2024-12-18T13:21:04.794Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cc428c5537c504962098"
+  },
+  "pressure": 97307.9,
+  "altitude": 339.89,
+  "acceleration_x": -3.43,
+  "acceleration_y": 1.66,
+  "acceleration_z": 9.08,
+  "timestamp": {
+    "$date": "2024-12-18T13:21:06.983Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cc458c5537c50496209a"
+  },
+  "pressure": 97316.91,
+  "altitude": 339.12,
+  "acceleration_x": 1.33,
+  "acceleration_y": 1.76,
+  "acceleration_z": -9.97,
+  "timestamp": {
+    "$date": "2024-12-18T13:21:09.099Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cc478c5537c50496209c"
+  },
+  "pressure": 97313.09,
+  "altitude": 339.45,
+  "acceleration_x": -0.69,
+  "acceleration_y": -2.55,
+  "acceleration_z": 13.07,
+  "timestamp": {
+    "$date": "2024-12-18T13:21:11.229Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cc498c5537c50496209e"
+  },
+  "pressure": 97312.34,
+  "altitude": 339.51,
+  "acceleration_x": 1.12,
+  "acceleration_y": 0.06,
+  "acceleration_z": 9.43,
+  "timestamp": {
+    "$date": "2024-12-18T13:21:13.339Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cc4b8c5537c5049620a0"
+  },
+  "pressure": 97319.04,
+  "altitude": 338.93,
+  "acceleration_x": 1.22,
+  "acceleration_y": 0.04,
+  "acceleration_z": 9.42,
+  "timestamp": {
+    "$date": "2024-12-18T13:21:15.459Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cc4d8c5537c5049620a2"
+  },
+  "pressure": 97307.59,
+  "altitude": 339.92,
+  "acceleration_x": 1.24,
+  "acceleration_y": 0.07,
+  "acceleration_z": 9.43,
+  "timestamp": {
+    "$date": "2024-12-18T13:21:17.625Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cc4f8c5537c5049620a4"
+  },
+  "pressure": 97311.73,
+  "altitude": 339.56,
+  "acceleration_x": 1.29,
+  "acceleration_y": 0.09,
+  "acceleration_z": 9.42,
+  "timestamp": {
+    "$date": "2024-12-18T13:21:19.776Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cc518c5537c5049620a6"
+  },
+  "pressure": 97319.52,
+  "altitude": 338.89,
+  "acceleration_x": 1.29,
+  "acceleration_y": 0.1,
+  "acceleration_z": 9.4,
+  "timestamp": {
+    "$date": "2024-12-18T13:21:21.926Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cc548c5537c5049620a8"
+  },
+  "pressure": 97312.49,
+  "altitude": 339.5,
+  "acceleration_x": 1.34,
+  "acceleration_y": 0.12,
+  "acceleration_z": 9.41,
+  "timestamp": {
+    "$date": "2024-12-18T13:21:24.078Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cc568c5537c5049620aa"
+  },
+  "pressure": 97320.28,
+  "altitude": 338.83,
+  "acceleration_x": 1.33,
+  "acceleration_y": 0.1,
+  "acceleration_z": 9.42,
+  "timestamp": {
+    "$date": "2024-12-18T13:21:26.202Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cc588c5537c5049620ac"
+  },
+  "pressure": 97318.42,
+  "altitude": 338.99,
+  "acceleration_x": 1.31,
+  "acceleration_y": 0.1,
+  "acceleration_z": 9.39,
+  "timestamp": {
+    "$date": "2024-12-18T13:21:28.384Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cc5a8c5537c5049620ae"
+  },
+  "pressure": 97317.69,
+  "altitude": 339.05,
+  "acceleration_x": 1.35,
+  "acceleration_y": 0.09,
+  "acceleration_z": 9.41,
+  "timestamp": {
+    "$date": "2024-12-18T13:21:30.508Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cc5c8c5537c5049620b0"
+  },
+  "pressure": 97311.41,
+  "altitude": 339.59,
+  "acceleration_x": 1.32,
+  "acceleration_y": 0.12,
+  "acceleration_z": 9.41,
+  "timestamp": {
+    "$date": "2024-12-18T13:21:32.678Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cc5e8c5537c5049620b2"
+  },
+  "pressure": 97306.54,
+  "altitude": 340.01,
+  "acceleration_x": 1.32,
+  "acceleration_y": 0.1,
+  "acceleration_z": 9.39,
+  "timestamp": {
+    "$date": "2024-12-18T13:21:34.801Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cceb8c5537c5049620b4"
+  },
+  "pressure": 93861.23,
+  "altitude": 640.7,
+  "acceleration_x": 1.5,
+  "acceleration_y": 0.46,
+  "acceleration_z": 9.13,
+  "timestamp": {
+    "$date": "2024-12-18T13:23:55.601Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cced8c5537c5049620b6"
+  },
+  "pressure": 97289.29,
+  "altitude": 341.49,
+  "acceleration_x": 1.49,
+  "acceleration_y": 0.44,
+  "acceleration_z": 9.4,
+  "timestamp": {
+    "$date": "2024-12-18T13:23:57.723Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ccef8c5537c5049620b8"
+  },
+  "pressure": 97305.21,
+  "altitude": 340.12,
+  "acceleration_x": 1.52,
+  "acceleration_y": 0.41,
+  "acceleration_z": 9.36,
+  "timestamp": {
+    "$date": "2024-12-18T13:23:59.842Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ccf18c5537c5049620ba"
+  },
+  "pressure": 97304.89,
+  "altitude": 340.15,
+  "acceleration_x": 1.51,
+  "acceleration_y": 0.45,
+  "acceleration_z": 9.36,
+  "timestamp": {
+    "$date": "2024-12-18T13:24:01.976Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ccf48c5537c5049620bc"
+  },
+  "pressure": 97312.38,
+  "altitude": 339.51,
+  "acceleration_x": 2.33,
+  "acceleration_y": 6.39,
+  "acceleration_z": -1.63,
+  "timestamp": {
+    "$date": "2024-12-18T13:24:04.131Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ccf68c5537c5049620be"
+  },
+  "pressure": 97304.59,
+  "altitude": 340.18,
+  "acceleration_x": 1.16,
+  "acceleration_y": -0.31,
+  "acceleration_z": 9.46,
+  "timestamp": {
+    "$date": "2024-12-18T13:24:06.277Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ccf88c5537c5049620c0"
+  },
+  "pressure": 97308.25,
+  "altitude": 339.86,
+  "acceleration_x": 1.67,
+  "acceleration_y": 0.16,
+  "acceleration_z": 9.38,
+  "timestamp": {
+    "$date": "2024-12-18T13:24:08.430Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ccfa8c5537c5049620c2"
+  },
+  "pressure": 97309.02,
+  "altitude": 339.8,
+  "acceleration_x": 1.74,
+  "acceleration_y": 0.21,
+  "acceleration_z": 9.34,
+  "timestamp": {
+    "$date": "2024-12-18T13:24:10.582Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ccfc8c5537c5049620c4"
+  },
+  "pressure": 97310.55,
+  "altitude": 339.66,
+  "acceleration_x": 1.79,
+  "acceleration_y": 0.23,
+  "acceleration_z": 9.34,
+  "timestamp": {
+    "$date": "2024-12-18T13:24:12.702Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ccfe8c5537c5049620c6"
+  },
+  "pressure": 97311.31,
+  "altitude": 339.6,
+  "acceleration_x": 1.82,
+  "acceleration_y": 0.22,
+  "acceleration_z": 9.34,
+  "timestamp": {
+    "$date": "2024-12-18T13:24:14.877Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cd018c5537c5049620c8"
+  },
+  "pressure": 97310.84,
+  "altitude": 339.64,
+  "acceleration_x": 1.85,
+  "acceleration_y": 0.25,
+  "acceleration_z": 9.34,
+  "timestamp": {
+    "$date": "2024-12-18T13:24:17.033Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cd038c5537c5049620ca"
+  },
+  "pressure": 97314.2,
+  "altitude": 339.35,
+  "acceleration_x": 1.87,
+  "acceleration_y": 0.25,
+  "acceleration_z": 9.33,
+  "timestamp": {
+    "$date": "2024-12-18T13:24:19.153Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cd058c5537c5049620cc"
+  },
+  "pressure": 97313.44,
+  "altitude": 339.41,
+  "acceleration_x": 1.89,
+  "acceleration_y": 0.24,
+  "acceleration_z": 9.33,
+  "timestamp": {
+    "$date": "2024-12-18T13:24:21.333Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cd078c5537c5049620ce"
+  },
+  "pressure": 97309.78,
+  "altitude": 339.73,
+  "acceleration_x": 1.9,
+  "acceleration_y": 0.25,
+  "acceleration_z": 9.28,
+  "timestamp": {
+    "$date": "2024-12-18T13:24:23.486Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cd098c5537c5049620d0"
+  },
+  "pressure": 97307.19,
+  "altitude": 339.95,
+  "acceleration_x": 1.92,
+  "acceleration_y": 0.26,
+  "acceleration_z": 9.32,
+  "timestamp": {
+    "$date": "2024-12-18T13:24:25.599Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cd0b8c5537c5049620d2"
+  },
+  "pressure": 97310.55,
+  "altitude": 339.66,
+  "acceleration_x": 1.92,
+  "acceleration_y": 0.26,
+  "acceleration_z": 9.32,
+  "timestamp": {
+    "$date": "2024-12-18T13:24:27.714Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cd0d8c5537c5049620d4"
+  },
+  "pressure": 97313.14,
+  "altitude": 339.44,
+  "acceleration_x": 1.94,
+  "acceleration_y": 0.24,
+  "acceleration_z": 9.31,
+  "timestamp": {
+    "$date": "2024-12-18T13:24:29.846Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cd0f8c5537c5049620d6"
+  },
+  "pressure": 97312.84,
+  "altitude": 339.47,
+  "acceleration_x": 1.93,
+  "acceleration_y": 0.27,
+  "acceleration_z": 9.3,
+  "timestamp": {
+    "$date": "2024-12-18T13:24:31.985Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cd128c5537c5049620d8"
+  },
+  "pressure": 97315.44,
+  "altitude": 339.24,
+  "acceleration_x": 1.95,
+  "acceleration_y": 0.27,
+  "acceleration_z": 9.32,
+  "timestamp": {
+    "$date": "2024-12-18T13:24:34.097Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cd148c5537c5049620da"
+  },
+  "pressure": 97311.79,
+  "altitude": 339.56,
+  "acceleration_x": 1.94,
+  "acceleration_y": 0.25,
+  "acceleration_z": 9.31,
+  "timestamp": {
+    "$date": "2024-12-18T13:24:36.217Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cd168c5537c5049620dc"
+  },
+  "pressure": 97314.38,
+  "altitude": 339.33,
+  "acceleration_x": 1.95,
+  "acceleration_y": 0.26,
+  "acceleration_z": 9.31,
+  "timestamp": {
+    "$date": "2024-12-18T13:24:38.434Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cd188c5537c5049620de"
+  },
+  "pressure": 97318.03,
+  "altitude": 339.24,
+  "acceleration_x": 1.95,
+  "acceleration_y": 0.27,
+  "acceleration_z": 9.3,
+  "timestamp": {
+    "$date": "2024-12-18T13:24:40.583Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cd1a8c5537c5049620e0"
+  },
+  "pressure": 97314.38,
+  "altitude": 339.33,
+  "acceleration_x": 1.95,
+  "acceleration_y": 0.27,
+  "acceleration_z": 9.29,
+  "timestamp": {
+    "$date": "2024-12-18T13:24:42.693Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cd1c8c5537c5049620e2"
+  },
+  "pressure": 97315.91,
+  "altitude": 339.2,
+  "acceleration_x": 1.96,
+  "acceleration_y": 0.27,
+  "acceleration_z": 9.33,
+  "timestamp": {
+    "$date": "2024-12-18T13:24:44.808Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cd1e8c5537c5049620e4"
+  },
+  "pressure": 97311.79,
+  "altitude": 339.56,
+  "acceleration_x": 1.98,
+  "acceleration_y": 0.26,
+  "acceleration_z": 9.32,
+  "timestamp": {
+    "$date": "2024-12-18T13:24:46.916Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cd218c5537c5049620e6"
+  },
+  "pressure": 97311.17,
+  "altitude": 339.61,
+  "acceleration_x": 1.98,
+  "acceleration_y": 0.3,
+  "acceleration_z": 9.29,
+  "timestamp": {
+    "$date": "2024-12-18T13:24:49.079Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cd238c5537c5049620e8"
+  },
+  "pressure": 97314.86,
+  "altitude": 339.29,
+  "acceleration_x": 1.98,
+  "acceleration_y": 0.25,
+  "acceleration_z": 9.29,
+  "timestamp": {
+    "$date": "2024-12-18T13:24:51.245Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cd258c5537c5049620ea"
+  },
+  "pressure": 97312.27,
+  "altitude": 339.52,
+  "acceleration_x": 1.99,
+  "acceleration_y": 0.29,
+  "acceleration_z": 9.31,
+  "timestamp": {
+    "$date": "2024-12-18T13:24:53.351Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cd278c5537c5049620ec"
+  },
+  "pressure": 97314.53,
+  "altitude": 339.32,
+  "acceleration_x": 2.01,
+  "acceleration_y": 0.26,
+  "acceleration_z": 9.27,
+  "timestamp": {
+    "$date": "2024-12-18T13:24:55.465Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cd298c5537c5049620ee"
+  },
+  "pressure": 97314.53,
+  "altitude": 339.32,
+  "acceleration_x": 1.99,
+  "acceleration_y": 0.29,
+  "acceleration_z": 9.3,
+  "timestamp": {
+    "$date": "2024-12-18T13:24:57.575Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cd2b8c5537c5049620f0"
+  },
+  "pressure": 97315.3,
+  "altitude": 339.26,
+  "acceleration_x": 2.01,
+  "acceleration_y": 0.28,
+  "acceleration_z": 9.3,
+  "timestamp": {
+    "$date": "2024-12-18T13:24:59.695Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cd2d8c5537c5049620f2"
+  },
+  "pressure": 97316.06,
+  "altitude": 339.19,
+  "acceleration_x": 1.99,
+  "acceleration_y": 0.28,
+  "acceleration_z": 9.33,
+  "timestamp": {
+    "$date": "2024-12-18T13:25:01.809Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cd308c5537c5049620f4"
+  },
+  "pressure": 97311.65,
+  "altitude": 339.57,
+  "acceleration_x": 2.01,
+  "acceleration_y": 0.27,
+  "acceleration_z": 9.3,
+  "timestamp": {
+    "$date": "2024-12-18T13:25:04.035Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cd328c5537c5049620f6"
+  },
+  "pressure": 97312.7,
+  "altitude": 339.48,
+  "acceleration_x": 2,
+  "acceleration_y": 0.26,
+  "acceleration_z": 9.31,
+  "timestamp": {
+    "$date": "2024-12-18T13:25:06.183Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cd348c5537c5049620f8"
+  },
+  "pressure": 97317.59,
+  "altitude": 339.06,
+  "acceleration_x": 2,
+  "acceleration_y": 0.29,
+  "acceleration_z": 9.3,
+  "timestamp": {
+    "$date": "2024-12-18T13:25:08.333Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cd368c5537c5049620fa"
+  },
+  "pressure": 97311.65,
+  "altitude": 339.57,
+  "acceleration_x": 1.98,
+  "acceleration_y": 0.28,
+  "acceleration_z": 9.28,
+  "timestamp": {
+    "$date": "2024-12-18T13:25:10.453Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cd388c5537c5049620fc"
+  },
+  "pressure": 97307.99,
+  "altitude": 339.88,
+  "acceleration_x": 1.99,
+  "acceleration_y": 0.28,
+  "acceleration_z": 9.3,
+  "timestamp": {
+    "$date": "2024-12-18T13:25:12.561Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cd3a8c5537c5049620fe"
+  },
+  "pressure": 97319.42,
+  "altitude": 338.9,
+  "acceleration_x": 2.02,
+  "acceleration_y": 0.28,
+  "acceleration_z": 9.32,
+  "timestamp": {
+    "$date": "2024-12-18T13:25:14.792Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cd3c8c5537c504962100"
+  },
+  "pressure": 97311.33,
+  "altitude": 339.6,
+  "acceleration_x": 2.02,
+  "acceleration_y": 0.28,
+  "acceleration_z": 9.31,
+  "timestamp": {
+    "$date": "2024-12-18T13:25:16.907Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cd3f8c5537c504962102"
+  },
+  "pressure": 97307.99,
+  "altitude": 339.88,
+  "acceleration_x": 2.01,
+  "acceleration_y": 0.28,
+  "acceleration_z": 9.29,
+  "timestamp": {
+    "$date": "2024-12-18T13:25:19.027Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cd418c5537c504962104"
+  },
+  "pressure": 97305.41,
+  "altitude": 340.11,
+  "acceleration_x": 2.02,
+  "acceleration_y": 0.29,
+  "acceleration_z": 9.28,
+  "timestamp": {
+    "$date": "2024-12-18T13:25:21.238Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cd438c5537c504962106"
+  },
+  "pressure": 97303.55,
+  "altitude": 339.82,
+  "acceleration_x": 2.04,
+  "acceleration_y": 0.28,
+  "acceleration_z": 9.29,
+  "timestamp": {
+    "$date": "2024-12-18T13:25:23.389Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cd458c5537c504962108"
+  },
+  "pressure": 97312.09,
+  "altitude": 339.53,
+  "acceleration_x": 2.03,
+  "acceleration_y": 0.27,
+  "acceleration_z": 9.29,
+  "timestamp": {
+    "$date": "2024-12-18T13:25:25.495Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cd478c5537c50496210a"
+  },
+  "pressure": 97308.73,
+  "altitude": 339.82,
+  "acceleration_x": 2.04,
+  "acceleration_y": 0.3,
+  "acceleration_z": 9.26,
+  "timestamp": {
+    "$date": "2024-12-18T13:25:27.692Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cd498c5537c50496210c"
+  },
+  "pressure": 97309.5,
+  "altitude": 339.75,
+  "acceleration_x": 2.05,
+  "acceleration_y": 0.26,
+  "acceleration_z": 9.27,
+  "timestamp": {
+    "$date": "2024-12-18T13:25:29.837Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cd4b8c5537c50496210e"
+  },
+  "pressure": 97307.67,
+  "altitude": 339.91,
+  "acceleration_x": 2.06,
+  "acceleration_y": 0.28,
+  "acceleration_z": 9.29,
+  "timestamp": {
+    "$date": "2024-12-18T13:25:31.955Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cd4e8c5537c504962110"
+  },
+  "pressure": 97310,
+  "altitude": 339.71,
+  "acceleration_x": 2.05,
+  "acceleration_y": 0.28,
+  "acceleration_z": 9.3,
+  "timestamp": {
+    "$date": "2024-12-18T13:25:34.060Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cd508c5537c504962112"
+  },
+  "pressure": 97314.69,
+  "altitude": 339.53,
+  "acceleration_x": 2.05,
+  "acceleration_y": 0.28,
+  "acceleration_z": 9.27,
+  "timestamp": {
+    "$date": "2024-12-18T13:25:36.289Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cd528c5537c504962114"
+  },
+  "pressure": 97305.08,
+  "altitude": 340.13,
+  "acceleration_x": 2.06,
+  "acceleration_y": 0.3,
+  "acceleration_z": 9.3,
+  "timestamp": {
+    "$date": "2024-12-18T13:25:38.402Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cd548c5537c504962116"
+  },
+  "pressure": 97313.62,
+  "altitude": 339.84,
+  "acceleration_x": 2.06,
+  "acceleration_y": 0.28,
+  "acceleration_z": 9.3,
+  "timestamp": {
+    "$date": "2024-12-18T13:25:40.517Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cd568c5537c504962118"
+  },
+  "pressure": 97317.78,
+  "altitude": 339.04,
+  "acceleration_x": 2.06,
+  "acceleration_y": 0.3,
+  "acceleration_z": 9.32,
+  "timestamp": {
+    "$date": "2024-12-18T13:25:42.739Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cd588c5537c50496211a"
+  },
+  "pressure": 97311.03,
+  "altitude": 339.62,
+  "acceleration_x": 2.06,
+  "acceleration_y": 0.27,
+  "acceleration_z": 9.3,
+  "timestamp": {
+    "$date": "2024-12-18T13:25:44.874Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cd5a8c5537c50496211c"
+  },
+  "pressure": 97304.31,
+  "altitude": 340.2,
+  "acceleration_x": 2.08,
+  "acceleration_y": 0.27,
+  "acceleration_z": 9.32,
+  "timestamp": {
+    "$date": "2024-12-18T13:25:46.989Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cd5d8c5537c50496211e"
+  },
+  "pressure": 97310.27,
+  "altitude": 339.69,
+  "acceleration_x": 2.08,
+  "acceleration_y": 0.28,
+  "acceleration_z": 9.27,
+  "timestamp": {
+    "$date": "2024-12-18T13:25:49.103Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cd5f8c5537c504962120"
+  },
+  "pressure": 97314.69,
+  "altitude": 339.31,
+  "acceleration_x": 2.07,
+  "acceleration_y": 0.28,
+  "acceleration_z": 9.28,
+  "timestamp": {
+    "$date": "2024-12-18T13:25:51.239Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cd618c5537c504962122"
+  },
+  "pressure": 97309.5,
+  "altitude": 339.53,
+  "acceleration_x": 2.04,
+  "acceleration_y": 0.28,
+  "acceleration_z": 9.26,
+  "timestamp": {
+    "$date": "2024-12-18T13:25:53.353Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cd638c5537c504962124"
+  },
+  "pressure": 97312.09,
+  "altitude": 339.53,
+  "acceleration_x": 2.05,
+  "acceleration_y": 0.28,
+  "acceleration_z": 9.28,
+  "timestamp": {
+    "$date": "2024-12-18T13:25:55.542Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cd658c5537c504962126"
+  },
+  "pressure": 97308.73,
+  "altitude": 339.82,
+  "acceleration_x": 2.13,
+  "acceleration_y": 0.31,
+  "acceleration_z": 9.27,
+  "timestamp": {
+    "$date": "2024-12-18T13:25:57.691Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cd678c5537c504962128"
+  },
+  "pressure": 97312.09,
+  "altitude": 339.53,
+  "acceleration_x": 1.16,
+  "acceleration_y": 1.13,
+  "acceleration_z": 9.25,
+  "timestamp": {
+    "$date": "2024-12-18T13:25:59.840Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cd698c5537c50496212a"
+  },
+  "pressure": 97305.08,
+  "altitude": 340.13,
+  "acceleration_x": 1.2,
+  "acceleration_y": 0.79,
+  "acceleration_z": 9.35,
+  "timestamp": {
+    "$date": "2024-12-18T13:26:01.963Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cd6c8c5537c50496212c"
+  },
+  "pressure": 97317.78,
+  "altitude": 339.04,
+  "acceleration_x": 1.19,
+  "acceleration_y": 0.78,
+  "acceleration_z": 9.34,
+  "timestamp": {
+    "$date": "2024-12-18T13:26:04.076Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cd6e8c5537c50496212e"
+  },
+  "pressure": 97311.5,
+  "altitude": 339.58,
+  "acceleration_x": 1.2,
+  "acceleration_y": 0.8,
+  "acceleration_z": 9.39,
+  "timestamp": {
+    "$date": "2024-12-18T13:26:06.296Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cd708c5537c504962130"
+  },
+  "pressure": 97312.74,
+  "altitude": 339.48,
+  "acceleration_x": 1.19,
+  "acceleration_y": 0.81,
+  "acceleration_z": 9.39,
+  "timestamp": {
+    "$date": "2024-12-18T13:26:08.405Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cd728c5537c504962132"
+  },
+  "pressure": 97309.83,
+  "altitude": 339.73,
+  "acceleration_x": 1.24,
+  "acceleration_y": 0.79,
+  "acceleration_z": 9.36,
+  "timestamp": {
+    "$date": "2024-12-18T13:26:10.592Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cd748c5537c504962134"
+  },
+  "pressure": 97317.31,
+  "altitude": 339.08,
+  "acceleration_x": 1.19,
+  "acceleration_y": 0.81,
+  "acceleration_z": 9.37,
+  "timestamp": {
+    "$date": "2024-12-18T13:26:12.741Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cd768c5537c504962136"
+  },
+  "pressure": 97312.89,
+  "altitude": 339.46,
+  "acceleration_x": 1.2,
+  "acceleration_y": 0.8,
+  "acceleration_z": 9.37,
+  "timestamp": {
+    "$date": "2024-12-18T13:26:14.893Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cd798c5537c504962138"
+  },
+  "pressure": 97311.83,
+  "altitude": 339.55,
+  "acceleration_x": 1.19,
+  "acceleration_y": 0.8,
+  "acceleration_z": 9.39,
+  "timestamp": {
+    "$date": "2024-12-18T13:26:17.006Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cd7b8c5537c50496213a"
+  },
+  "pressure": 97313.34,
+  "altitude": 339.42,
+  "acceleration_x": 1.21,
+  "acceleration_y": 0.79,
+  "acceleration_z": 9.39,
+  "timestamp": {
+    "$date": "2024-12-18T13:26:19.193Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cd7d8c5537c50496213c"
+  },
+  "pressure": 97313.84,
+  "altitude": 339.38,
+  "acceleration_x": 1.17,
+  "acceleration_y": 0.79,
+  "acceleration_z": 9.37,
+  "timestamp": {
+    "$date": "2024-12-18T13:26:21.299Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cd7f8c5537c50496213e"
+  },
+  "pressure": 97315.34,
+  "altitude": 339.25,
+  "acceleration_x": 1.18,
+  "acceleration_y": 0.8,
+  "acceleration_z": 9.39,
+  "timestamp": {
+    "$date": "2024-12-18T13:26:23.414Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cd818c5537c504962140"
+  },
+  "pressure": 97305.73,
+  "altitude": 340.08,
+  "acceleration_x": 1.2,
+  "acceleration_y": 0.82,
+  "acceleration_z": 9.38,
+  "timestamp": {
+    "$date": "2024-12-18T13:26:25.518Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cd838c5537c504962142"
+  },
+  "pressure": 97309.86,
+  "altitude": 339.72,
+  "acceleration_x": 1.2,
+  "acceleration_y": 0.82,
+  "acceleration_z": 9.4,
+  "timestamp": {
+    "$date": "2024-12-18T13:26:27.692Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cd858c5537c504962144"
+  },
+  "pressure": 97301.78,
+  "altitude": 340.42,
+  "acceleration_x": 1.21,
+  "acceleration_y": 0.78,
+  "acceleration_z": 9.36,
+  "timestamp": {
+    "$date": "2024-12-18T13:26:29.841Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cd878c5537c504962146"
+  },
+  "pressure": 97304.38,
+  "altitude": 340.19,
+  "acceleration_x": 1.19,
+  "acceleration_y": 0.82,
+  "acceleration_z": 9.37,
+  "timestamp": {
+    "$date": "2024-12-18T13:26:31.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cd8a8c5537c504962148"
+  },
+  "pressure": 97308.47,
+  "altitude": 339.84,
+  "acceleration_x": 1.2,
+  "acceleration_y": 0.79,
+  "acceleration_z": 9.34,
+  "timestamp": {
+    "$date": "2024-12-18T13:26:34.120Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cd8c8c5537c50496214a"
+  },
+  "pressure": 97307.41,
+  "altitude": 339.93,
+  "acceleration_x": 1.19,
+  "acceleration_y": 0.8,
+  "acceleration_z": 9.4,
+  "timestamp": {
+    "$date": "2024-12-18T13:26:36.291Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cd8e8c5537c50496214c"
+  },
+  "pressure": 97303.76,
+  "altitude": 340.25,
+  "acceleration_x": 1.2,
+  "acceleration_y": 0.81,
+  "acceleration_z": 9.39,
+  "timestamp": {
+    "$date": "2024-12-18T13:26:38.440Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cd908c5537c50496214e"
+  },
+  "pressure": 97303.76,
+  "altitude": 340.25,
+  "acceleration_x": 1.19,
+  "acceleration_y": 0.79,
+  "acceleration_z": 9.37,
+  "timestamp": {
+    "$date": "2024-12-18T13:26:40.595Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cd928c5537c504962150"
+  },
+  "pressure": 97305.29,
+  "altitude": 340.56,
+  "acceleration_x": 1.2,
+  "acceleration_y": 0.79,
+  "acceleration_z": 9.35,
+  "timestamp": {
+    "$date": "2024-12-18T13:26:42.713Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cd948c5537c504962152"
+  },
+  "pressure": 97305.29,
+  "altitude": 340.12,
+  "acceleration_x": 1.19,
+  "acceleration_y": 0.79,
+  "acceleration_z": 9.38,
+  "timestamp": {
+    "$date": "2024-12-18T13:26:44.825Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cd978c5537c504962154"
+  },
+  "pressure": 97306.82,
+  "altitude": 339.98,
+  "acceleration_x": 1.19,
+  "acceleration_y": 0.81,
+  "acceleration_z": 9.38,
+  "timestamp": {
+    "$date": "2024-12-18T13:26:47.054Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cd998c5537c504962156"
+  },
+  "pressure": 97308.35,
+  "altitude": 339.85,
+  "acceleration_x": 1.19,
+  "acceleration_y": 0.8,
+  "acceleration_z": 9.39,
+  "timestamp": {
+    "$date": "2024-12-18T13:26:49.169Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cd9b8c5537c504962158"
+  },
+  "pressure": 97310.95,
+  "altitude": 339.63,
+  "acceleration_x": 1.19,
+  "acceleration_y": 0.8,
+  "acceleration_z": 9.37,
+  "timestamp": {
+    "$date": "2024-12-18T13:26:51.349Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cd9d8c5537c50496215a"
+  },
+  "pressure": 97309.89,
+  "altitude": 339.72,
+  "acceleration_x": 1.19,
+  "acceleration_y": 0.81,
+  "acceleration_z": 9.38,
+  "timestamp": {
+    "$date": "2024-12-18T13:26:53.475Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cd9f8c5537c50496215c"
+  },
+  "pressure": 97306.97,
+  "altitude": 339.97,
+  "acceleration_x": 1.18,
+  "acceleration_y": 0.81,
+  "acceleration_z": 9.35,
+  "timestamp": {
+    "$date": "2024-12-18T13:26:55.646Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cda18c5537c50496215e"
+  },
+  "pressure": 97306.97,
+  "altitude": 339.97,
+  "acceleration_x": 1.2,
+  "acceleration_y": 0.81,
+  "acceleration_z": 9.37,
+  "timestamp": {
+    "$date": "2024-12-18T13:26:57.782Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cda38c5537c504962160"
+  },
+  "pressure": 97299.95,
+  "altitude": 340.13,
+  "acceleration_x": 1.2,
+  "acceleration_y": 0.81,
+  "acceleration_z": 9.37,
+  "timestamp": {
+    "$date": "2024-12-18T13:26:59.949Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cda68c5537c504962162"
+  },
+  "pressure": 97294.77,
+  "altitude": 340.35,
+  "acceleration_x": 1.2,
+  "acceleration_y": 0.8,
+  "acceleration_z": 9.39,
+  "timestamp": {
+    "$date": "2024-12-18T13:27:02.072Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cda88c5537c504962164"
+  },
+  "pressure": 97302.55,
+  "altitude": 340.35,
+  "acceleration_x": 1.17,
+  "acceleration_y": 0.79,
+  "acceleration_z": 9.36,
+  "timestamp": {
+    "$date": "2024-12-18T13:27:04.184Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cdaa8c5537c504962166"
+  },
+  "pressure": 97300.42,
+  "altitude": 340.76,
+  "acceleration_x": 1.19,
+  "acceleration_y": 0.78,
+  "acceleration_z": 9.35,
+  "timestamp": {
+    "$date": "2024-12-18T13:27:06.398Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cdac8c5537c504962168"
+  },
+  "pressure": 97299.34,
+  "altitude": 340.63,
+  "acceleration_x": 1.21,
+  "acceleration_y": 0.79,
+  "acceleration_z": 9.38,
+  "timestamp": {
+    "$date": "2024-12-18T13:27:08.508Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cdae8c5537c50496216a"
+  },
+  "pressure": 97301.16,
+  "altitude": 340.47,
+  "acceleration_x": 1.2,
+  "acceleration_y": 0.82,
+  "acceleration_z": 9.41,
+  "timestamp": {
+    "$date": "2024-12-18T13:27:10.720Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cdb08c5537c50496216c"
+  },
+  "pressure": 97305.29,
+  "altitude": 340.12,
+  "acceleration_x": 1.19,
+  "acceleration_y": 0.82,
+  "acceleration_z": 9.35,
+  "timestamp": {
+    "$date": "2024-12-18T13:27:12.952Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cdb38c5537c50496216e"
+  },
+  "pressure": 97298.27,
+  "altitude": 340.72,
+  "acceleration_x": 1.18,
+  "acceleration_y": 0.79,
+  "acceleration_z": 9.41,
+  "timestamp": {
+    "$date": "2024-12-18T13:27:15.066Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cdb58c5537c504962170"
+  },
+  "pressure": 97299.8,
+  "altitude": 340.59,
+  "acceleration_x": 1.19,
+  "acceleration_y": 0.82,
+  "acceleration_z": 9.37,
+  "timestamp": {
+    "$date": "2024-12-18T13:27:17.168Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cdb78c5537c504962172"
+  },
+  "pressure": 97296.45,
+  "altitude": 341.1,
+  "acceleration_x": 1.22,
+  "acceleration_y": 0.83,
+  "acceleration_z": 9.38,
+  "timestamp": {
+    "$date": "2024-12-18T13:27:19.278Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cdb98c5537c504962174"
+  },
+  "pressure": 97298,
+  "altitude": 340.74,
+  "acceleration_x": 1.19,
+  "acceleration_y": 0.79,
+  "acceleration_z": 9.39,
+  "timestamp": {
+    "$date": "2024-12-18T13:27:21.401Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cdbb8c5537c504962176"
+  },
+  "pressure": 97296.15,
+  "altitude": 340.9,
+  "acceleration_x": 1.21,
+  "acceleration_y": 0.8,
+  "acceleration_z": 9.38,
+  "timestamp": {
+    "$date": "2024-12-18T13:27:23.511Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cdbd8c5537c504962178"
+  },
+  "pressure": 97302.1,
+  "altitude": 340.39,
+  "acceleration_x": 1.2,
+  "acceleration_y": 0.83,
+  "acceleration_z": 9.35,
+  "timestamp": {
+    "$date": "2024-12-18T13:27:25.650Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cdbf8c5537c50496217a"
+  },
+  "pressure": 97302.87,
+  "altitude": 340.32,
+  "acceleration_x": 1.19,
+  "acceleration_y": 0.8,
+  "acceleration_z": 9.39,
+  "timestamp": {
+    "$date": "2024-12-18T13:27:27.797Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cdc18c5537c50496217c"
+  },
+  "pressure": 97296.15,
+  "altitude": 340.9,
+  "acceleration_x": 1.2,
+  "acceleration_y": 0.8,
+  "acceleration_z": 9.35,
+  "timestamp": {
+    "$date": "2024-12-18T13:27:29.954Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cdc48c5537c50496217e"
+  },
+  "pressure": 97309.59,
+  "altitude": 339.97,
+  "acceleration_x": 1.19,
+  "acceleration_y": 0.81,
+  "acceleration_z": 9.36,
+  "timestamp": {
+    "$date": "2024-12-18T13:27:32.104Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cdc68c5537c504962180"
+  },
+  "pressure": 97304.4,
+  "altitude": 340.19,
+  "acceleration_x": 1.2,
+  "acceleration_y": 0.8,
+  "acceleration_z": 9.37,
+  "timestamp": {
+    "$date": "2024-12-18T13:27:34.222Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cdc88c5537c504962182"
+  },
+  "pressure": 97299.98,
+  "altitude": 340.57,
+  "acceleration_x": 1.21,
+  "acceleration_y": 0.8,
+  "acceleration_z": 9.36,
+  "timestamp": {
+    "$date": "2024-12-18T13:27:36.336Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cdca8c5537c504962184"
+  },
+  "pressure": 97308.2,
+  "altitude": 339.87,
+  "acceleration_x": 1.19,
+  "acceleration_y": 0.81,
+  "acceleration_z": 9.39,
+  "timestamp": {
+    "$date": "2024-12-18T13:27:38.554Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cdcc8c5537c504962186"
+  },
+  "pressure": 97307.44,
+  "altitude": 339.93,
+  "acceleration_x": 1.18,
+  "acceleration_y": 0.8,
+  "acceleration_z": 9.37,
+  "timestamp": {
+    "$date": "2024-12-18T13:27:40.704Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cdce8c5537c504962188"
+  },
+  "pressure": 97308.97,
+  "altitude": 339.8,
+  "acceleration_x": 1.2,
+  "acceleration_y": 0.79,
+  "acceleration_z": 9.37,
+  "timestamp": {
+    "$date": "2024-12-18T13:27:42.850Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cdd08c5537c50496218a"
+  },
+  "pressure": 97308.97,
+  "altitude": 339.8,
+  "acceleration_x": 1.2,
+  "acceleration_y": 0.81,
+  "acceleration_z": 9.36,
+  "timestamp": {
+    "$date": "2024-12-18T13:27:44.951Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cdd38c5537c50496218c"
+  },
+  "pressure": 97303.78,
+  "altitude": 340.25,
+  "acceleration_x": 1.18,
+  "acceleration_y": 0.8,
+  "acceleration_z": 9.4,
+  "timestamp": {
+    "$date": "2024-12-18T13:27:47.061Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cdd58c5537c50496218e"
+  },
+  "pressure": 97303.02,
+  "altitude": 340.31,
+  "acceleration_x": 1.2,
+  "acceleration_y": 0.79,
+  "acceleration_z": 9.37,
+  "timestamp": {
+    "$date": "2024-12-18T13:27:49.199Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cdd78c5537c504962190"
+  },
+  "pressure": 97304.55,
+  "altitude": 340.18,
+  "acceleration_x": 1.19,
+  "acceleration_y": 0.79,
+  "acceleration_z": 9.35,
+  "timestamp": {
+    "$date": "2024-12-18T13:27:51.308Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cdd98c5537c504962192"
+  },
+  "pressure": 97297.83,
+  "altitude": 340.76,
+  "acceleration_x": 1.19,
+  "acceleration_y": 0.8,
+  "acceleration_z": 9.36,
+  "timestamp": {
+    "$date": "2024-12-18T13:27:53.499Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cddb8c5537c504962194"
+  },
+  "pressure": 97302.72,
+  "altitude": 340.34,
+  "acceleration_x": 1.19,
+  "acceleration_y": 0.79,
+  "acceleration_z": 9.37,
+  "timestamp": {
+    "$date": "2024-12-18T13:27:55.604Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cddd8c5537c504962196"
+  },
+  "pressure": 97302.72,
+  "altitude": 340.34,
+  "acceleration_x": 1.19,
+  "acceleration_y": 0.81,
+  "acceleration_z": 9.38,
+  "timestamp": {
+    "$date": "2024-12-18T13:27:57.719Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cddf8c5537c504962198"
+  },
+  "pressure": 97302.72,
+  "altitude": 340.56,
+  "acceleration_x": 1.2,
+  "acceleration_y": 0.81,
+  "acceleration_z": 9.37,
+  "timestamp": {
+    "$date": "2024-12-18T13:27:59.831Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cde28c5537c50496219a"
+  },
+  "pressure": 97306.08,
+  "altitude": 340.05,
+  "acceleration_x": 1.21,
+  "acceleration_y": 0.79,
+  "acceleration_z": 9.38,
+  "timestamp": {
+    "$date": "2024-12-18T13:28:02.006Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cde48c5537c50496219c"
+  },
+  "pressure": 97306.84,
+  "altitude": 339.98,
+  "acceleration_x": 1.2,
+  "acceleration_y": 0.8,
+  "acceleration_z": 9.38,
+  "timestamp": {
+    "$date": "2024-12-18T13:28:04.130Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cde68c5537c50496219e"
+  },
+  "pressure": 97301.66,
+  "altitude": 340.65,
+  "acceleration_x": 1.18,
+  "acceleration_y": 0.8,
+  "acceleration_z": 9.41,
+  "timestamp": {
+    "$date": "2024-12-18T13:28:06.227Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cde88c5537c5049621a0"
+  },
+  "pressure": 97302.39,
+  "altitude": 340.37,
+  "acceleration_x": 1.2,
+  "acceleration_y": 0.79,
+  "acceleration_z": 9.39,
+  "timestamp": {
+    "$date": "2024-12-18T13:28:08.454Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cdea8c5537c5049621a2"
+  },
+  "pressure": 97310.94,
+  "altitude": 339.63,
+  "acceleration_x": 1.19,
+  "acceleration_y": 0.79,
+  "acceleration_z": 9.34,
+  "timestamp": {
+    "$date": "2024-12-18T13:28:10.606Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cdec8c5537c5049621a4"
+  },
+  "pressure": 97303.16,
+  "altitude": 340.3,
+  "acceleration_x": 1.19,
+  "acceleration_y": 0.81,
+  "acceleration_z": 9.36,
+  "timestamp": {
+    "$date": "2024-12-18T13:28:12.755Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cdee8c5537c5049621a6"
+  },
+  "pressure": 97302.09,
+  "altitude": 340.39,
+  "acceleration_x": 1.2,
+  "acceleration_y": 0.8,
+  "acceleration_z": 9.36,
+  "timestamp": {
+    "$date": "2024-12-18T13:28:14.907Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cdf18c5537c5049621a8"
+  },
+  "pressure": 97303.92,
+  "altitude": 340.23,
+  "acceleration_x": 1.19,
+  "acceleration_y": 0.83,
+  "acceleration_z": 9.37,
+  "timestamp": {
+    "$date": "2024-12-18T13:28:17.014Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cdf38c5537c5049621aa"
+  },
+  "pressure": 97300.56,
+  "altitude": 340.52,
+  "acceleration_x": 1.21,
+  "acceleration_y": 0.83,
+  "acceleration_z": 9.37,
+  "timestamp": {
+    "$date": "2024-12-18T13:28:19.121Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cdf58c5537c5049621ac"
+  },
+  "pressure": 97304.69,
+  "altitude": 340.17,
+  "acceleration_x": 1.21,
+  "acceleration_y": 0.83,
+  "acceleration_z": 9.36,
+  "timestamp": {
+    "$date": "2024-12-18T13:28:21.253Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cdf78c5537c5049621ae"
+  },
+  "pressure": 97304.69,
+  "altitude": 340.17,
+  "acceleration_x": 1.19,
+  "acceleration_y": 0.81,
+  "acceleration_z": 9.36,
+  "timestamp": {
+    "$date": "2024-12-18T13:28:23.360Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cdf98c5537c5049621b0"
+  },
+  "pressure": 97305.48,
+  "altitude": 340.1,
+  "acceleration_x": 1.17,
+  "acceleration_y": 0.79,
+  "acceleration_z": 9.38,
+  "timestamp": {
+    "$date": "2024-12-18T13:28:25.471Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cdfb8c5537c5049621b2"
+  },
+  "pressure": 97303.66,
+  "altitude": 340.26,
+  "acceleration_x": 1.19,
+  "acceleration_y": 0.81,
+  "acceleration_z": 9.37,
+  "timestamp": {
+    "$date": "2024-12-18T13:28:27.705Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cdfd8c5537c5049621b4"
+  },
+  "pressure": 97307.75,
+  "altitude": 339.9,
+  "acceleration_x": 1.19,
+  "acceleration_y": 0.82,
+  "acceleration_z": 9.35,
+  "timestamp": {
+    "$date": "2024-12-18T13:28:29.854Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cdff8c5537c5049621b6"
+  },
+  "pressure": 97308.52,
+  "altitude": 340.06,
+  "acceleration_x": 1.2,
+  "acceleration_y": 0.8,
+  "acceleration_z": 9.35,
+  "timestamp": {
+    "$date": "2024-12-18T13:28:31.960Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ce028c5537c5049621b8"
+  },
+  "pressure": 97297.38,
+  "altitude": 340.8,
+  "acceleration_x": 1.19,
+  "acceleration_y": 0.81,
+  "acceleration_z": 9.36,
+  "timestamp": {
+    "$date": "2024-12-18T13:28:34.156Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ce048c5537c5049621ba"
+  },
+  "pressure": 97307.02,
+  "altitude": 339.97,
+  "acceleration_x": 1.19,
+  "acceleration_y": 0.8,
+  "acceleration_z": 9.42,
+  "timestamp": {
+    "$date": "2024-12-18T13:28:36.271Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ce068c5537c5049621bc"
+  },
+  "pressure": 97306.69,
+  "altitude": 340,
+  "acceleration_x": 1.19,
+  "acceleration_y": 0.82,
+  "acceleration_z": 9.36,
+  "timestamp": {
+    "$date": "2024-12-18T13:28:38.455Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ce088c5537c5049621be"
+  },
+  "pressure": 97304.09,
+  "altitude": 340.22,
+  "acceleration_x": 1.2,
+  "acceleration_y": 0.8,
+  "acceleration_z": 9.37,
+  "timestamp": {
+    "$date": "2024-12-18T13:28:40.569Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ce0a8c5537c5049621c0"
+  },
+  "pressure": 97301.5,
+  "altitude": 340.44,
+  "acceleration_x": 1.19,
+  "acceleration_y": 0.79,
+  "acceleration_z": 9.35,
+  "timestamp": {
+    "$date": "2024-12-18T13:28:42.756Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ce0c8c5537c5049621c2"
+  },
+  "pressure": 97301.5,
+  "altitude": 340.44,
+  "acceleration_x": 1.18,
+  "acceleration_y": 0.8,
+  "acceleration_z": 9.38,
+  "timestamp": {
+    "$date": "2024-12-18T13:28:44.864Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ce0e8c5537c5049621c4"
+  },
+  "pressure": 97305.63,
+  "altitude": 340.09,
+  "acceleration_x": 1.2,
+  "acceleration_y": 0.79,
+  "acceleration_z": 9.35,
+  "timestamp": {
+    "$date": "2024-12-18T13:28:46.992Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ce118c5537c5049621c6"
+  },
+  "pressure": 97302.27,
+  "altitude": 340.38,
+  "acceleration_x": 1.22,
+  "acceleration_y": 0.81,
+  "acceleration_z": 9.39,
+  "timestamp": {
+    "$date": "2024-12-18T13:28:49.208Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ce138c5537c5049621c8"
+  },
+  "pressure": 97305.63,
+  "altitude": 340.09,
+  "acceleration_x": 1.19,
+  "acceleration_y": 0.82,
+  "acceleration_z": 9.38,
+  "timestamp": {
+    "$date": "2024-12-18T13:28:51.324Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ce158c5537c5049621ca"
+  },
+  "pressure": 97303.03,
+  "altitude": 340.31,
+  "acceleration_x": 1.17,
+  "acceleration_y": 0.8,
+  "acceleration_z": 9.36,
+  "timestamp": {
+    "$date": "2024-12-18T13:28:53.507Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ce178c5537c5049621cc"
+  },
+  "pressure": 97308.22,
+  "altitude": 339.86,
+  "acceleration_x": 1.21,
+  "acceleration_y": 0.79,
+  "acceleration_z": 9.38,
+  "timestamp": {
+    "$date": "2024-12-18T13:28:55.629Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ce198c5537c5049621ce"
+  },
+  "pressure": 97308.98,
+  "altitude": 340.02,
+  "acceleration_x": 1.19,
+  "acceleration_y": 0.81,
+  "acceleration_z": 9.38,
+  "timestamp": {
+    "$date": "2024-12-18T13:28:57.734Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ce1b8c5537c5049621d0"
+  },
+  "pressure": 97300.44,
+  "altitude": 340.53,
+  "acceleration_x": 1.19,
+  "acceleration_y": 0.79,
+  "acceleration_z": 9.4,
+  "timestamp": {
+    "$date": "2024-12-18T13:28:59.959Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ce1e8c5537c5049621d2"
+  },
+  "pressure": 97302.7,
+  "altitude": 340.34,
+  "acceleration_x": 1.19,
+  "acceleration_y": 0.81,
+  "acceleration_z": 9.38,
+  "timestamp": {
+    "$date": "2024-12-18T13:29:02.067Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ce208c5537c5049621d4"
+  },
+  "pressure": 97298.28,
+  "altitude": 340.72,
+  "acceleration_x": 1.18,
+  "acceleration_y": 0.82,
+  "acceleration_z": 9.37,
+  "timestamp": {
+    "$date": "2024-12-18T13:29:04.262Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ce228c5537c5049621d6"
+  },
+  "pressure": 97302.7,
+  "altitude": 340.78,
+  "acceleration_x": 1.2,
+  "acceleration_y": 0.8,
+  "acceleration_z": 9.38,
+  "timestamp": {
+    "$date": "2024-12-18T13:29:06.383Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ce248c5537c5049621d8"
+  },
+  "pressure": 97298.28,
+  "altitude": 340.72,
+  "acceleration_x": 1.19,
+  "acceleration_y": 0.81,
+  "acceleration_z": 9.36,
+  "timestamp": {
+    "$date": "2024-12-18T13:29:08.491Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ce268c5537c5049621da"
+  },
+  "pressure": 97303.48,
+  "altitude": 340.27,
+  "acceleration_x": 1.19,
+  "acceleration_y": 0.81,
+  "acceleration_z": 9.36,
+  "timestamp": {
+    "$date": "2024-12-18T13:29:10.598Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ce288c5537c5049621dc"
+  },
+  "pressure": 97298.28,
+  "altitude": 340.72,
+  "acceleration_x": 1.22,
+  "acceleration_y": 0.81,
+  "acceleration_z": 9.36,
+  "timestamp": {
+    "$date": "2024-12-18T13:29:12.757Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ce2a8c5537c5049621de"
+  },
+  "pressure": 97300.58,
+  "altitude": 340.52,
+  "acceleration_x": 1.2,
+  "acceleration_y": 0.82,
+  "acceleration_z": 9.38,
+  "timestamp": {
+    "$date": "2024-12-18T13:29:14.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ce2d8c5537c5049621e0"
+  },
+  "pressure": 97301.34,
+  "altitude": 340.46,
+  "acceleration_x": 1.19,
+  "acceleration_y": 0.8,
+  "acceleration_z": 9.39,
+  "timestamp": {
+    "$date": "2024-12-18T13:29:17.061Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ce2f8c5537c5049621e2"
+  },
+  "pressure": 97300.58,
+  "altitude": 340.74,
+  "acceleration_x": 1.22,
+  "acceleration_y": 0.79,
+  "acceleration_z": 9.39,
+  "timestamp": {
+    "$date": "2024-12-18T13:29:19.212Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ce318c5537c5049621e4"
+  },
+  "pressure": 97302.11,
+  "altitude": 340.39,
+  "acceleration_x": 1.2,
+  "acceleration_y": 0.82,
+  "acceleration_z": 9.38,
+  "timestamp": {
+    "$date": "2024-12-18T13:29:21.350Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ce338c5537c5049621e6"
+  },
+  "pressure": 97311.73,
+  "altitude": 339.56,
+  "acceleration_x": 1.21,
+  "acceleration_y": 0.81,
+  "acceleration_z": 9.37,
+  "timestamp": {
+    "$date": "2024-12-18T13:29:23.466Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ce358c5537c5049621e8"
+  },
+  "pressure": 97302.85,
+  "altitude": 340.33,
+  "acceleration_x": 1.21,
+  "acceleration_y": 0.8,
+  "acceleration_z": 9.38,
+  "timestamp": {
+    "$date": "2024-12-18T13:29:25.662Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ce378c5537c5049621ea"
+  },
+  "pressure": 97308.8,
+  "altitude": 339.81,
+  "acceleration_x": 1.21,
+  "acceleration_y": 0.79,
+  "acceleration_z": 9.36,
+  "timestamp": {
+    "$date": "2024-12-18T13:29:27.816Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ce398c5537c5049621ec"
+  },
+  "pressure": 97303.62,
+  "altitude": 340.26,
+  "acceleration_x": 0.14,
+  "acceleration_y": -0.06,
+  "acceleration_z": 8.98,
+  "timestamp": {
+    "$date": "2024-12-18T13:29:29.962Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ce3c8c5537c5049621ee"
+  },
+  "pressure": 97314.8,
+  "altitude": 339.3,
+  "acceleration_x": -2.3,
+  "acceleration_y": 3.61,
+  "acceleration_z": -9.16,
+  "timestamp": {
+    "$date": "2024-12-18T13:29:32.064Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ce3e8c5537c5049621f0"
+  },
+  "pressure": 97316.91,
+  "altitude": 339.12,
+  "acceleration_x": -1.23,
+  "acceleration_y": 0.01,
+  "acceleration_z": 9.46,
+  "timestamp": {
+    "$date": "2024-12-18T13:29:34.264Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ce408c5537c5049621f2"
+  },
+  "pressure": 97311.25,
+  "altitude": 339.6,
+  "acceleration_x": 0.43,
+  "acceleration_y": 0.28,
+  "acceleration_z": 9.45,
+  "timestamp": {
+    "$date": "2024-12-18T13:29:36.414Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ce428c5537c5049621f4"
+  },
+  "pressure": 97307.16,
+  "altitude": 339.96,
+  "acceleration_x": 0.49,
+  "acceleration_y": 0.31,
+  "acceleration_z": 9.46,
+  "timestamp": {
+    "$date": "2024-12-18T13:29:38.564Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ce448c5537c5049621f6"
+  },
+  "pressure": 97316.45,
+  "altitude": 339.16,
+  "acceleration_x": 0.52,
+  "acceleration_y": 0.32,
+  "acceleration_z": 9.46,
+  "timestamp": {
+    "$date": "2024-12-18T13:29:40.714Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ce468c5537c5049621f8"
+  },
+  "pressure": 97303.03,
+  "altitude": 340.31,
+  "acceleration_x": 0.54,
+  "acceleration_y": 0.32,
+  "acceleration_z": 9.46,
+  "timestamp": {
+    "$date": "2024-12-18T13:29:42.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ce488c5537c5049621fa"
+  },
+  "pressure": 97303.8,
+  "altitude": 340.24,
+  "acceleration_x": 0.57,
+  "acceleration_y": 0.33,
+  "acceleration_z": 9.47,
+  "timestamp": {
+    "$date": "2024-12-18T13:29:44.988Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ce4b8c5537c5049621fc"
+  },
+  "pressure": 97304.56,
+  "altitude": 339.96,
+  "acceleration_x": 0.59,
+  "acceleration_y": 0.35,
+  "acceleration_z": 9.45,
+  "timestamp": {
+    "$date": "2024-12-18T13:29:47.107Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ce4d8c5537c5049621fe"
+  },
+  "pressure": 97300.44,
+  "altitude": 340.53,
+  "acceleration_x": 0.61,
+  "acceleration_y": 0.36,
+  "acceleration_z": 9.42,
+  "timestamp": {
+    "$date": "2024-12-18T13:29:49.315Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ce4f8c5537c504962200"
+  },
+  "pressure": 97305.63,
+  "altitude": 340.09,
+  "acceleration_x": -1.75,
+  "acceleration_y": 3.03,
+  "acceleration_z": 3.11,
+  "timestamp": {
+    "$date": "2024-12-18T13:29:51.465Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ce518c5537c504962202"
+  },
+  "pressure": 97311.58,
+  "altitude": 339.57,
+  "acceleration_x": 0.47,
+  "acceleration_y": 2.47,
+  "acceleration_z": -9.85,
+  "timestamp": {
+    "$date": "2024-12-18T13:29:53.580Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ce538c5537c504962204"
+  },
+  "pressure": 97309.61,
+  "altitude": 339.74,
+  "acceleration_x": -3.04,
+  "acceleration_y": -0.47,
+  "acceleration_z": 9.06,
+  "timestamp": {
+    "$date": "2024-12-18T13:29:55.767Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ce558c5537c504962206"
+  },
+  "pressure": 97308.84,
+  "altitude": 339.81,
+  "acceleration_x": 0.4,
+  "acceleration_y": 0.23,
+  "acceleration_z": 9.45,
+  "timestamp": {
+    "$date": "2024-12-18T13:29:57.917Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ce588c5537c504962208"
+  },
+  "pressure": 97292.78,
+  "altitude": 341.19,
+  "acceleration_x": 0.65,
+  "acceleration_y": 0.24,
+  "acceleration_z": 9.44,
+  "timestamp": {
+    "$date": "2024-12-18T13:30:00.053Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ce5a8c5537c50496220b"
+  },
+  "pressure": 97296.47,
+  "altitude": 340.87,
+  "acceleration_x": 0.68,
+  "acceleration_y": 0.28,
+  "acceleration_z": 9.43,
+  "timestamp": {
+    "$date": "2024-12-18T13:30:02.218Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ce5c8c5537c50496220d"
+  },
+  "pressure": 97300.89,
+  "altitude": 340.49,
+  "acceleration_x": 0.73,
+  "acceleration_y": 0.29,
+  "acceleration_z": 9.46,
+  "timestamp": {
+    "$date": "2024-12-18T13:30:04.333Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ce5e8c5537c50496220f"
+  },
+  "pressure": 97290.51,
+  "altitude": 341.39,
+  "acceleration_x": 0.75,
+  "acceleration_y": 0.31,
+  "acceleration_z": 9.47,
+  "timestamp": {
+    "$date": "2024-12-18T13:30:06.448Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ce608c5537c504962211"
+  },
+  "pressure": 97293.88,
+  "altitude": 340.65,
+  "acceleration_x": 0.75,
+  "acceleration_y": 0.3,
+  "acceleration_z": 9.44,
+  "timestamp": {
+    "$date": "2024-12-18T13:30:08.669Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ce628c5537c504962213"
+  },
+  "pressure": 97300.12,
+  "altitude": 340.56,
+  "acceleration_x": 0.76,
+  "acceleration_y": 0.34,
+  "acceleration_z": 9.42,
+  "timestamp": {
+    "$date": "2024-12-18T13:30:10.820Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ce648c5537c504962215"
+  },
+  "pressure": 97305.31,
+  "altitude": 340.11,
+  "acceleration_x": 0.78,
+  "acceleration_y": 0.35,
+  "acceleration_z": 9.42,
+  "timestamp": {
+    "$date": "2024-12-18T13:30:12.970Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ce678c5537c504962217"
+  },
+  "pressure": 97299.36,
+  "altitude": 340.63,
+  "acceleration_x": 0.78,
+  "acceleration_y": 0.34,
+  "acceleration_z": 9.43,
+  "timestamp": {
+    "$date": "2024-12-18T13:30:15.072Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ce698c5537c504962219"
+  },
+  "pressure": 97300.12,
+  "altitude": 340.56,
+  "acceleration_x": -2.47,
+  "acceleration_y": 1.94,
+  "acceleration_z": -9.95,
+  "timestamp": {
+    "$date": "2024-12-18T13:30:17.270Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ce6b8c5537c50496221b"
+  },
+  "pressure": 97307,
+  "altitude": 339.97,
+  "acceleration_x": -1.47,
+  "acceleration_y": 2.21,
+  "acceleration_z": 9.08,
+  "timestamp": {
+    "$date": "2024-12-18T13:30:19.386Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ce6d8c5537c50496221d"
+  },
+  "pressure": 97299.22,
+  "altitude": 340.64,
+  "acceleration_x": 1.08,
+  "acceleration_y": 0.71,
+  "acceleration_z": 9.37,
+  "timestamp": {
+    "$date": "2024-12-18T13:30:21.489Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ce6f8c5537c50496221f"
+  },
+  "pressure": 97302.87,
+  "altitude": 340.32,
+  "acceleration_x": 0.99,
+  "acceleration_y": 0.85,
+  "acceleration_z": 9.39,
+  "timestamp": {
+    "$date": "2024-12-18T13:30:23.727Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ce718c5537c504962221"
+  },
+  "pressure": 97297.68,
+  "altitude": 340.77,
+  "acceleration_x": 0.96,
+  "acceleration_y": 0.73,
+  "acceleration_z": 9.39,
+  "timestamp": {
+    "$date": "2024-12-18T13:30:25.834Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ce748c5537c504962223"
+  },
+  "pressure": 97303.63,
+  "altitude": 340.26,
+  "acceleration_x": 0.94,
+  "acceleration_y": 0.77,
+  "acceleration_z": 9.39,
+  "timestamp": {
+    "$date": "2024-12-18T13:30:28.022Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ce768c5537c504962225"
+  },
+  "pressure": 97307,
+  "altitude": 339.97,
+  "acceleration_x": 0.94,
+  "acceleration_y": 0.76,
+  "acceleration_z": 9.42,
+  "timestamp": {
+    "$date": "2024-12-18T13:30:30.116Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ce788c5537c504962227"
+  },
+  "pressure": 97298.91,
+  "altitude": 340.66,
+  "acceleration_x": 0.94,
+  "acceleration_y": 0.75,
+  "acceleration_z": 9.42,
+  "timestamp": {
+    "$date": "2024-12-18T13:30:32.319Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ce7a8c5537c504962229"
+  },
+  "pressure": 97302.25,
+  "altitude": 340.38,
+  "acceleration_x": 0.92,
+  "acceleration_y": 0.76,
+  "acceleration_z": 9.41,
+  "timestamp": {
+    "$date": "2024-12-18T13:30:34.473Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ce7c8c5537c50496222b"
+  },
+  "pressure": 97303.78,
+  "altitude": 340.25,
+  "acceleration_x": 0.92,
+  "acceleration_y": 0.77,
+  "acceleration_z": 9.41,
+  "timestamp": {
+    "$date": "2024-12-18T13:30:36.625Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ce7e8c5537c50496222d"
+  },
+  "pressure": 97297.83,
+  "altitude": 340.76,
+  "acceleration_x": 0.92,
+  "acceleration_y": 0.77,
+  "acceleration_z": 9.43,
+  "timestamp": {
+    "$date": "2024-12-18T13:30:38.772Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ce808c5537c50496222f"
+  },
+  "pressure": 97308.97,
+  "altitude": 339.8,
+  "acceleration_x": 0.92,
+  "acceleration_y": 0.74,
+  "acceleration_z": 9.45,
+  "timestamp": {
+    "$date": "2024-12-18T13:30:40.879Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ce828c5537c504962231"
+  },
+  "pressure": 97293.4,
+  "altitude": 341.14,
+  "acceleration_x": 0.94,
+  "acceleration_y": 0.75,
+  "acceleration_z": 9.38,
+  "timestamp": {
+    "$date": "2024-12-18T13:30:42.988Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ce858c5537c504962233"
+  },
+  "pressure": 97303.48,
+  "altitude": 340.27,
+  "acceleration_x": 0.91,
+  "acceleration_y": 0.77,
+  "acceleration_z": 9.41,
+  "timestamp": {
+    "$date": "2024-12-18T13:30:45.122Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ce878c5537c504962235"
+  },
+  "pressure": 97306.84,
+  "altitude": 339.98,
+  "acceleration_x": 0.92,
+  "acceleration_y": 0.77,
+  "acceleration_z": 9.41,
+  "timestamp": {
+    "$date": "2024-12-18T13:30:47.274Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ce898c5537c504962237"
+  },
+  "pressure": 97303.16,
+  "altitude": 340.3,
+  "acceleration_x": 0.91,
+  "acceleration_y": 0.77,
+  "acceleration_z": 9.42,
+  "timestamp": {
+    "$date": "2024-12-18T13:30:49.403Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ce8b8c5537c504962239"
+  },
+  "pressure": 97309.11,
+  "altitude": 339.79,
+  "acceleration_x": 0.91,
+  "acceleration_y": 0.74,
+  "acceleration_z": 9.39,
+  "timestamp": {
+    "$date": "2024-12-18T13:30:51.576Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ce8d8c5537c50496223b"
+  },
+  "pressure": 97309.87,
+  "altitude": 339.72,
+  "acceleration_x": 0.91,
+  "acceleration_y": 0.75,
+  "acceleration_z": 9.4,
+  "timestamp": {
+    "$date": "2024-12-18T13:30:53.725Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ce8f8c5537c50496223d"
+  },
+  "pressure": 97304.69,
+  "altitude": 340.17,
+  "acceleration_x": 0.88,
+  "acceleration_y": 0.76,
+  "acceleration_z": 9.42,
+  "timestamp": {
+    "$date": "2024-12-18T13:30:55.873Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ce928c5537c50496223f"
+  },
+  "pressure": 97295.87,
+  "altitude": 340.93,
+  "acceleration_x": 0.89,
+  "acceleration_y": 0.73,
+  "acceleration_z": 9.39,
+  "timestamp": {
+    "$date": "2024-12-18T13:30:58.026Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ce948c5537c504962241"
+  },
+  "pressure": 97307.02,
+  "altitude": 339.97,
+  "acceleration_x": 0.9,
+  "acceleration_y": 0.74,
+  "acceleration_z": 9.42,
+  "timestamp": {
+    "$date": "2024-12-18T13:31:00.141Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ce968c5537c504962243"
+  },
+  "pressure": 97305.92,
+  "altitude": 340.06,
+  "acceleration_x": 0.89,
+  "acceleration_y": 0.75,
+  "acceleration_z": 9.43,
+  "timestamp": {
+    "$date": "2024-12-18T13:31:02.254Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ce988c5537c504962245"
+  },
+  "pressure": 97305.92,
+  "altitude": 340.06,
+  "acceleration_x": 0.89,
+  "acceleration_y": 0.75,
+  "acceleration_z": 9.4,
+  "timestamp": {
+    "$date": "2024-12-18T13:31:04.476Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ce9a8c5537c504962247"
+  },
+  "pressure": 97309.28,
+  "altitude": 339.77,
+  "acceleration_x": 0.9,
+  "acceleration_y": 0.74,
+  "acceleration_z": 9.4,
+  "timestamp": {
+    "$date": "2024-12-18T13:31:06.633Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ce9c8c5537c504962249"
+  },
+  "pressure": 97304.09,
+  "altitude": 340.22,
+  "acceleration_x": 0.9,
+  "acceleration_y": 0.77,
+  "acceleration_z": 9.4,
+  "timestamp": {
+    "$date": "2024-12-18T13:31:08.779Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ce9e8c5537c50496224b"
+  },
+  "pressure": 97312.34,
+  "altitude": 339.51,
+  "acceleration_x": 0.87,
+  "acceleration_y": 0.76,
+  "acceleration_z": 9.37,
+  "timestamp": {
+    "$date": "2024-12-18T13:31:10.928Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cea18c5537c50496224d"
+  },
+  "pressure": 97302.27,
+  "altitude": 340.38,
+  "acceleration_x": 0.9,
+  "acceleration_y": 0.75,
+  "acceleration_z": 9.38,
+  "timestamp": {
+    "$date": "2024-12-18T13:31:13.053Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cea38c5537c50496224f"
+  },
+  "pressure": 97307.16,
+  "altitude": 339.96,
+  "acceleration_x": 0.9,
+  "acceleration_y": 0.74,
+  "acceleration_z": 9.41,
+  "timestamp": {
+    "$date": "2024-12-18T13:31:15.153Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cea58c5537c504962251"
+  },
+  "pressure": 97307.16,
+  "altitude": 339.96,
+  "acceleration_x": 0.91,
+  "acceleration_y": 0.75,
+  "acceleration_z": 9.4,
+  "timestamp": {
+    "$date": "2024-12-18T13:31:17.254Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cea78c5537c504962253"
+  },
+  "pressure": 97305.3,
+  "altitude": 340.11,
+  "acceleration_x": 0.88,
+  "acceleration_y": 0.78,
+  "acceleration_z": 9.4,
+  "timestamp": {
+    "$date": "2024-12-18T13:31:19.425Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cea98c5537c504962255"
+  },
+  "pressure": 97313.85,
+  "altitude": 340.05,
+  "acceleration_x": 0.9,
+  "acceleration_y": 0.76,
+  "acceleration_z": 9.41,
+  "timestamp": {
+    "$date": "2024-12-18T13:31:21.576Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ceab8c5537c504962257"
+  },
+  "pressure": 97310.2,
+  "altitude": 339.69,
+  "acceleration_x": 0.88,
+  "acceleration_y": 0.76,
+  "acceleration_z": 9.4,
+  "timestamp": {
+    "$date": "2024-12-18T13:31:23.728Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cead8c5537c504962259"
+  },
+  "pressure": 97305.01,
+  "altitude": 340.14,
+  "acceleration_x": 0.89,
+  "acceleration_y": 0.74,
+  "acceleration_z": 9.39,
+  "timestamp": {
+    "$date": "2024-12-18T13:31:25.879Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ceaf8c5537c50496225b"
+  },
+  "pressure": 97307.59,
+  "altitude": 339.92,
+  "acceleration_x": 0.9,
+  "acceleration_y": 0.75,
+  "acceleration_z": 9.41,
+  "timestamp": {
+    "$date": "2024-12-18T13:31:27.985Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ceb28c5537c50496225d"
+  },
+  "pressure": 97310.96,
+  "altitude": 339.63,
+  "acceleration_x": 0.88,
+  "acceleration_y": 0.75,
+  "acceleration_z": 9.4,
+  "timestamp": {
+    "$date": "2024-12-18T13:31:30.092Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ceb48c5537c50496225f"
+  },
+  "pressure": 97306.54,
+  "altitude": 340.01,
+  "acceleration_x": 0.89,
+  "acceleration_y": 0.76,
+  "acceleration_z": 9.39,
+  "timestamp": {
+    "$date": "2024-12-18T13:31:32.204Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ceb68c5537c504962261"
+  },
+  "pressure": 97306.54,
+  "altitude": 340.01,
+  "acceleration_x": 0.9,
+  "acceleration_y": 0.74,
+  "acceleration_z": 9.39,
+  "timestamp": {
+    "$date": "2024-12-18T13:31:34.318Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ceb88c5537c504962263"
+  },
+  "pressure": 97307.3,
+  "altitude": 339.94,
+  "acceleration_x": 0.88,
+  "acceleration_y": 0.74,
+  "acceleration_z": 9.4,
+  "timestamp": {
+    "$date": "2024-12-18T13:31:36.530Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ceba8c5537c504962265"
+  },
+  "pressure": 97304.7,
+  "altitude": 340.17,
+  "acceleration_x": 0.91,
+  "acceleration_y": 0.75,
+  "acceleration_z": 9.4,
+  "timestamp": {
+    "$date": "2024-12-18T13:31:38.647Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cebc8c5537c504962267"
+  },
+  "pressure": 97305.45,
+  "altitude": 339.88,
+  "acceleration_x": 0.88,
+  "acceleration_y": 0.77,
+  "acceleration_z": 9.42,
+  "timestamp": {
+    "$date": "2024-12-18T13:31:40.762Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cebe8c5537c504962269"
+  },
+  "pressure": 97302.85,
+  "altitude": 340.33,
+  "acceleration_x": 0.88,
+  "acceleration_y": 0.76,
+  "acceleration_z": 9.4,
+  "timestamp": {
+    "$date": "2024-12-18T13:31:42.876Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cec18c5537c50496226b"
+  },
+  "pressure": 97308.04,
+  "altitude": 339.88,
+  "acceleration_x": 0.9,
+  "acceleration_y": 0.75,
+  "acceleration_z": 9.4,
+  "timestamp": {
+    "$date": "2024-12-18T13:31:45.026Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cec38c5537c50496226d"
+  },
+  "pressure": 97308.8,
+  "altitude": 339.59,
+  "acceleration_x": 0.88,
+  "acceleration_y": 0.76,
+  "acceleration_z": 9.41,
+  "timestamp": {
+    "$date": "2024-12-18T13:31:47.176Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cec58c5537c50496226f"
+  },
+  "pressure": 97307.3,
+  "altitude": 339.94,
+  "acceleration_x": 0.89,
+  "acceleration_y": 0.74,
+  "acceleration_z": 9.41,
+  "timestamp": {
+    "$date": "2024-12-18T13:31:49.279Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cec78c5537c504962271"
+  },
+  "pressure": 97306.21,
+  "altitude": 340.04,
+  "acceleration_x": 0.91,
+  "acceleration_y": 0.76,
+  "acceleration_z": 9.41,
+  "timestamp": {
+    "$date": "2024-12-18T13:31:51.386Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cec98c5537c504962273"
+  },
+  "pressure": 97302.85,
+  "altitude": 340.33,
+  "acceleration_x": 0.9,
+  "acceleration_y": 0.77,
+  "acceleration_z": 9.41,
+  "timestamp": {
+    "$date": "2024-12-18T13:31:53.499Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cecb8c5537c504962275"
+  },
+  "pressure": 97301.02,
+  "altitude": 340.48,
+  "acceleration_x": 0.89,
+  "acceleration_y": 0.77,
+  "acceleration_z": 9.39,
+  "timestamp": {
+    "$date": "2024-12-18T13:31:55.617Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cecd8c5537c504962277"
+  },
+  "pressure": 97302.58,
+  "altitude": 340.35,
+  "acceleration_x": 0.89,
+  "acceleration_y": 0.77,
+  "acceleration_z": 9.42,
+  "timestamp": {
+    "$date": "2024-12-18T13:31:57.826Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cecf8c5537c504962279"
+  },
+  "pressure": 97305.94,
+  "altitude": 340.06,
+  "acceleration_x": 0.9,
+  "acceleration_y": 0.75,
+  "acceleration_z": 9.41,
+  "timestamp": {
+    "$date": "2024-12-18T13:31:59.940Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ced28c5537c50496227b"
+  },
+  "pressure": 97299.98,
+  "altitude": 340.35,
+  "acceleration_x": 0.89,
+  "acceleration_y": 0.75,
+  "acceleration_z": 9.42,
+  "timestamp": {
+    "$date": "2024-12-18T13:32:02.131Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ced48c5537c50496227d"
+  },
+  "pressure": 97302.58,
+  "altitude": 340.35,
+  "acceleration_x": 0.86,
+  "acceleration_y": 0.77,
+  "acceleration_z": 9.38,
+  "timestamp": {
+    "$date": "2024-12-18T13:32:04.243Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ced68c5537c50496227f"
+  },
+  "pressure": 97303.35,
+  "altitude": 340.06,
+  "acceleration_x": 0.91,
+  "acceleration_y": 0.77,
+  "acceleration_z": 9.42,
+  "timestamp": {
+    "$date": "2024-12-18T13:32:06.344Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ced88c5537c504962281"
+  },
+  "pressure": 97296.63,
+  "altitude": 340.86,
+  "acceleration_x": 0.88,
+  "acceleration_y": 0.78,
+  "acceleration_z": 9.4,
+  "timestamp": {
+    "$date": "2024-12-18T13:32:08.469Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ceda8c5537c504962283"
+  },
+  "pressure": 97302.58,
+  "altitude": 340.35,
+  "acceleration_x": 0.87,
+  "acceleration_y": 0.76,
+  "acceleration_z": 9.42,
+  "timestamp": {
+    "$date": "2024-12-18T13:32:10.626Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cedc8c5537c504962285"
+  },
+  "pressure": 97300.75,
+  "altitude": 340.51,
+  "acceleration_x": 0.89,
+  "acceleration_y": 0.77,
+  "acceleration_z": 9.42,
+  "timestamp": {
+    "$date": "2024-12-18T13:32:12.775Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cede8c5537c504962287"
+  },
+  "pressure": 97301.52,
+  "altitude": 340.44,
+  "acceleration_x": 0.89,
+  "acceleration_y": 0.78,
+  "acceleration_z": 9.4,
+  "timestamp": {
+    "$date": "2024-12-18T13:32:14.926Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cee18c5537c504962289"
+  },
+  "pressure": 97298.16,
+  "altitude": 340.73,
+  "acceleration_x": 0.88,
+  "acceleration_y": 0.75,
+  "acceleration_z": 9.38,
+  "timestamp": {
+    "$date": "2024-12-18T13:32:17.041Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cee38c5537c50496228b"
+  },
+  "pressure": 97304.41,
+  "altitude": 340.19,
+  "acceleration_x": 0.89,
+  "acceleration_y": 0.74,
+  "acceleration_z": 9.41,
+  "timestamp": {
+    "$date": "2024-12-18T13:32:19.159Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cee58c5537c50496228d"
+  },
+  "pressure": 97303.35,
+  "altitude": 340.28,
+  "acceleration_x": 0.91,
+  "acceleration_y": 0.77,
+  "acceleration_z": 9.42,
+  "timestamp": {
+    "$date": "2024-12-18T13:32:21.375Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cee78c5537c50496228f"
+  },
+  "pressure": 97298.16,
+  "altitude": 340.73,
+  "acceleration_x": 0.9,
+  "acceleration_y": 0.77,
+  "acceleration_z": 9.39,
+  "timestamp": {
+    "$date": "2024-12-18T13:32:23.483Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cee98c5537c504962291"
+  },
+  "pressure": 97295.56,
+  "altitude": 340.95,
+  "acceleration_x": 0.89,
+  "acceleration_y": 0.77,
+  "acceleration_z": 9.38,
+  "timestamp": {
+    "$date": "2024-12-18T13:32:25.677Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ceeb8c5537c504962293"
+  },
+  "pressure": 97294.5,
+  "altitude": 341.04,
+  "acceleration_x": 0.9,
+  "acceleration_y": 0.75,
+  "acceleration_z": 9.4,
+  "timestamp": {
+    "$date": "2024-12-18T13:32:27.827Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ceed8c5537c504962295"
+  },
+  "pressure": 97297.09,
+  "altitude": 340.82,
+  "acceleration_x": 0.88,
+  "acceleration_y": 0.77,
+  "acceleration_z": 9.39,
+  "timestamp": {
+    "$date": "2024-12-18T13:32:29.978Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cef08c5537c504962297"
+  },
+  "pressure": 97301.52,
+  "altitude": 340.44,
+  "acceleration_x": 0.92,
+  "acceleration_y": 0.76,
+  "acceleration_z": 9.41,
+  "timestamp": {
+    "$date": "2024-12-18T13:32:32.094Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cef28c5537c504962299"
+  },
+  "pressure": 97291.91,
+  "altitude": 341.27,
+  "acceleration_x": 0.88,
+  "acceleration_y": 0.77,
+  "acceleration_z": 9.41,
+  "timestamp": {
+    "$date": "2024-12-18T13:32:34.213Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cef48c5537c50496229b"
+  },
+  "pressure": 97303.79,
+  "altitude": 340.24,
+  "acceleration_x": 0.9,
+  "acceleration_y": 0.76,
+  "acceleration_z": 9.4,
+  "timestamp": {
+    "$date": "2024-12-18T13:32:36.323Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cef68c5537c50496229d"
+  },
+  "pressure": 97299.69,
+  "altitude": 340.6,
+  "acceleration_x": 0.9,
+  "acceleration_y": 0.76,
+  "acceleration_z": 9.4,
+  "timestamp": {
+    "$date": "2024-12-18T13:32:38.427Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cef88c5537c50496229f"
+  },
+  "pressure": 97303.79,
+  "altitude": 340.24,
+  "acceleration_x": 0.89,
+  "acceleration_y": 0.77,
+  "acceleration_z": 9.39,
+  "timestamp": {
+    "$date": "2024-12-18T13:32:40.626Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cefa8c5537c5049622a1"
+  },
+  "pressure": 97302.28,
+  "altitude": 340.37,
+  "acceleration_x": 0.92,
+  "acceleration_y": 0.76,
+  "acceleration_z": 9.45,
+  "timestamp": {
+    "$date": "2024-12-18T13:32:42.778Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cefc8c5537c5049622a3"
+  },
+  "pressure": 97297.09,
+  "altitude": 340.82,
+  "acceleration_x": 0.89,
+  "acceleration_y": 0.74,
+  "acceleration_z": 9.4,
+  "timestamp": {
+    "$date": "2024-12-18T13:32:44.927Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ceff8c5537c5049622a5"
+  },
+  "pressure": 97302.28,
+  "altitude": 340.37,
+  "acceleration_x": 0.89,
+  "acceleration_y": 0.76,
+  "acceleration_z": 9.43,
+  "timestamp": {
+    "$date": "2024-12-18T13:32:47.034Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cf018c5537c5049622a7"
+  },
+  "pressure": 97306.38,
+  "altitude": 340.02,
+  "acceleration_x": 0.88,
+  "acceleration_y": 0.77,
+  "acceleration_z": 9.38,
+  "timestamp": {
+    "$date": "2024-12-18T13:32:49.226Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cf038c5537c5049622a9"
+  },
+  "pressure": 97304.55,
+  "altitude": 340.63,
+  "acceleration_x": 0.9,
+  "acceleration_y": 0.76,
+  "acceleration_z": 9.4,
+  "timestamp": {
+    "$date": "2024-12-18T13:32:51.378Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cf058c5537c5049622ab"
+  },
+  "pressure": 97297.83,
+  "altitude": 340.76,
+  "acceleration_x": 0.91,
+  "acceleration_y": 0.75,
+  "acceleration_z": 9.37,
+  "timestamp": {
+    "$date": "2024-12-18T13:32:53.527Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cf078c5537c5049622ad"
+  },
+  "pressure": 97299.36,
+  "altitude": 340.63,
+  "acceleration_x": 0.9,
+  "acceleration_y": 0.77,
+  "acceleration_z": 9.42,
+  "timestamp": {
+    "$date": "2024-12-18T13:32:55.679Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cf0a8c5537c5049622af"
+  },
+  "pressure": 97300.12,
+  "altitude": 340.56,
+  "acceleration_x": 0.9,
+  "acceleration_y": 0.76,
+  "acceleration_z": 9.4,
+  "timestamp": {
+    "$date": "2024-12-18T13:32:58.031Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cf0c8c5537c5049622b1"
+  },
+  "pressure": 97300.89,
+  "altitude": 340.49,
+  "acceleration_x": 0.88,
+  "acceleration_y": 0.76,
+  "acceleration_z": 9.42,
+  "timestamp": {
+    "$date": "2024-12-18T13:33:00.391Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cf0e8c5537c5049622b3"
+  },
+  "pressure": 97299.36,
+  "altitude": 340.63,
+  "acceleration_x": 0.87,
+  "acceleration_y": 0.76,
+  "acceleration_z": 9.39,
+  "timestamp": {
+    "$date": "2024-12-18T13:33:02.745Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cf108c5537c5049622b5"
+  },
+  "pressure": 97294.94,
+  "altitude": 341.01,
+  "acceleration_x": 0.89,
+  "acceleration_y": 0.75,
+  "acceleration_z": 9.39,
+  "timestamp": {
+    "$date": "2024-12-18T13:33:04.861Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cf138c5537c5049622b7"
+  },
+  "pressure": 97297.53,
+  "altitude": 340.78,
+  "acceleration_x": 0.88,
+  "acceleration_y": 0.75,
+  "acceleration_z": 9.39,
+  "timestamp": {
+    "$date": "2024-12-18T13:33:07.043Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cf158c5537c5049622b9"
+  },
+  "pressure": 97291.58,
+  "altitude": 341.3,
+  "acceleration_x": 0.88,
+  "acceleration_y": 0.79,
+  "acceleration_z": 9.41,
+  "timestamp": {
+    "$date": "2024-12-18T13:33:09.147Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cf178c5537c5049622bb"
+  },
+  "pressure": 97300.12,
+  "altitude": 340.56,
+  "acceleration_x": 0.88,
+  "acceleration_y": 0.76,
+  "acceleration_z": 9.4,
+  "timestamp": {
+    "$date": "2024-12-18T13:33:11.349Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cf198c5537c5049622bd"
+  },
+  "pressure": 97301.66,
+  "altitude": 340.43,
+  "acceleration_x": 0.91,
+  "acceleration_y": 0.74,
+  "acceleration_z": 9.38,
+  "timestamp": {
+    "$date": "2024-12-18T13:33:13.502Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cf1b8c5537c5049622bf"
+  },
+  "pressure": 97310.51,
+  "altitude": 339.67,
+  "acceleration_x": 0.91,
+  "acceleration_y": 0.77,
+  "acceleration_z": 9.42,
+  "timestamp": {
+    "$date": "2024-12-18T13:33:15.646Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cf1d8c5537c5049622c1"
+  },
+  "pressure": 97299.36,
+  "altitude": 340.63,
+  "acceleration_x": 0.88,
+  "acceleration_y": 0.76,
+  "acceleration_z": 9.42,
+  "timestamp": {
+    "$date": "2024-12-18T13:33:17.754Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cf1f8c5537c5049622c3"
+  },
+  "pressure": 97302.73,
+  "altitude": 340.34,
+  "acceleration_x": 0.91,
+  "acceleration_y": 0.76,
+  "acceleration_z": 9.37,
+  "timestamp": {
+    "$date": "2024-12-18T13:33:19.946Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cf228c5537c5049622c5"
+  },
+  "pressure": 97299.36,
+  "altitude": 340.63,
+  "acceleration_x": 0.91,
+  "acceleration_y": 0.76,
+  "acceleration_z": 9.41,
+  "timestamp": {
+    "$date": "2024-12-18T13:33:22.098Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cf248c5537c5049622c7"
+  },
+  "pressure": 97302.73,
+  "altitude": 340.34,
+  "acceleration_x": 0.88,
+  "acceleration_y": 0.77,
+  "acceleration_z": 9.39,
+  "timestamp": {
+    "$date": "2024-12-18T13:33:24.249Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cf268c5537c5049622c9"
+  },
+  "pressure": 97300.12,
+  "altitude": 340.56,
+  "acceleration_x": 0.91,
+  "acceleration_y": 0.76,
+  "acceleration_z": 9.39,
+  "timestamp": {
+    "$date": "2024-12-18T13:33:26.378Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cf288c5537c5049622cb"
+  },
+  "pressure": 97302.73,
+  "altitude": 340.34,
+  "acceleration_x": 0.9,
+  "acceleration_y": 0.76,
+  "acceleration_z": 9.39,
+  "timestamp": {
+    "$date": "2024-12-18T13:33:28.494Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cf2a8c5537c5049622cd"
+  },
+  "pressure": 97307.91,
+  "altitude": 340.56,
+  "acceleration_x": 0.89,
+  "acceleration_y": 0.77,
+  "acceleration_z": 9.37,
+  "timestamp": {
+    "$date": "2024-12-18T13:33:30.597Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cf2c8c5537c5049622cf"
+  },
+  "pressure": 97303.79,
+  "altitude": 340.69,
+  "acceleration_x": 0.91,
+  "acceleration_y": 0.75,
+  "acceleration_z": 9.39,
+  "timestamp": {
+    "$date": "2024-12-18T13:33:32.697Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cf2e8c5537c5049622d1"
+  },
+  "pressure": 97303.79,
+  "altitude": 340.24,
+  "acceleration_x": 0.9,
+  "acceleration_y": 0.78,
+  "acceleration_z": 9.39,
+  "timestamp": {
+    "$date": "2024-12-18T13:33:34.897Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cf318c5537c5049622d3"
+  },
+  "pressure": 97304.55,
+  "altitude": 340.18,
+  "acceleration_x": 0.89,
+  "acceleration_y": 0.75,
+  "acceleration_z": 9.4,
+  "timestamp": {
+    "$date": "2024-12-18T13:33:37.047Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cf338c5537c5049622d5"
+  },
+  "pressure": 97298.59,
+  "altitude": 340.69,
+  "acceleration_x": 0.92,
+  "acceleration_y": 0.77,
+  "acceleration_z": 9.4,
+  "timestamp": {
+    "$date": "2024-12-18T13:33:39.180Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cf358c5537c5049622d7"
+  },
+  "pressure": 97301.19,
+  "altitude": 340.47,
+  "acceleration_x": 0.9,
+  "acceleration_y": 0.76,
+  "acceleration_z": 9.4,
+  "timestamp": {
+    "$date": "2024-12-18T13:33:41.348Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cf378c5537c5049622d9"
+  },
+  "pressure": 97303.79,
+  "altitude": 340.24,
+  "acceleration_x": 0.9,
+  "acceleration_y": 0.75,
+  "acceleration_z": 9.39,
+  "timestamp": {
+    "$date": "2024-12-18T13:33:43.499Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cf398c5537c5049622db"
+  },
+  "pressure": 97299.36,
+  "altitude": 340.63,
+  "acceleration_x": 0.89,
+  "acceleration_y": 0.78,
+  "acceleration_z": 9.38,
+  "timestamp": {
+    "$date": "2024-12-18T13:33:45.615Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cf3b8c5537c5049622dd"
+  },
+  "pressure": 97301.96,
+  "altitude": 340.4,
+  "acceleration_x": 0.92,
+  "acceleration_y": 0.77,
+  "acceleration_z": 9.42,
+  "timestamp": {
+    "$date": "2024-12-18T13:33:47.725Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cf3d8c5537c5049622df"
+  },
+  "pressure": 97305.62,
+  "altitude": 340.09,
+  "acceleration_x": 0.88,
+  "acceleration_y": 0.77,
+  "acceleration_z": 9.4,
+  "timestamp": {
+    "$date": "2024-12-18T13:33:49.825Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cf3f8c5537c5049622e1"
+  },
+  "pressure": 97307.91,
+  "altitude": 339.89,
+  "acceleration_x": 0.91,
+  "acceleration_y": 0.74,
+  "acceleration_z": 9.41,
+  "timestamp": {
+    "$date": "2024-12-18T13:33:51.943Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cf428c5537c5049622e3"
+  },
+  "pressure": 97301.19,
+  "altitude": 340.47,
+  "acceleration_x": 0.91,
+  "acceleration_y": 0.78,
+  "acceleration_z": 9.39,
+  "timestamp": {
+    "$date": "2024-12-18T13:33:54.148Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cf448c5537c5049622e5"
+  },
+  "pressure": 97307.15,
+  "altitude": 339.96,
+  "acceleration_x": 0.88,
+  "acceleration_y": 0.77,
+  "acceleration_z": 9.4,
+  "timestamp": {
+    "$date": "2024-12-18T13:33:56.251Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cf468c5537c5049622e7"
+  },
+  "pressure": 97307.15,
+  "altitude": 339.96,
+  "acceleration_x": 0.89,
+  "acceleration_y": 0.78,
+  "acceleration_z": 9.42,
+  "timestamp": {
+    "$date": "2024-12-18T13:33:58.451Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cf488c5537c5049622e9"
+  },
+  "pressure": 97301.96,
+  "altitude": 340.4,
+  "acceleration_x": 0.9,
+  "acceleration_y": 0.76,
+  "acceleration_z": 9.44,
+  "timestamp": {
+    "$date": "2024-12-18T13:34:00.597Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cf4a8c5537c5049622eb"
+  },
+  "pressure": 97301.96,
+  "altitude": 340.4,
+  "acceleration_x": 0.9,
+  "acceleration_y": 0.77,
+  "acceleration_z": 9.4,
+  "timestamp": {
+    "$date": "2024-12-18T13:34:02.748Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cf4c8c5537c5049622ed"
+  },
+  "pressure": 97299.36,
+  "altitude": 340.63,
+  "acceleration_x": 0.92,
+  "acceleration_y": 0.77,
+  "acceleration_z": 9.38,
+  "timestamp": {
+    "$date": "2024-12-18T13:34:04.899Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cf4f8c5537c5049622ef"
+  },
+  "pressure": 97306.08,
+  "altitude": 340.05,
+  "acceleration_x": 0.92,
+  "acceleration_y": 0.77,
+  "acceleration_z": 9.4,
+  "timestamp": {
+    "$date": "2024-12-18T13:34:07.052Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cf518c5537c5049622f1"
+  },
+  "pressure": 97300.12,
+  "altitude": 340.56,
+  "acceleration_x": 0.9,
+  "acceleration_y": 0.78,
+  "acceleration_z": 9.43,
+  "timestamp": {
+    "$date": "2024-12-18T13:34:09.199Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cf538c5537c5049622f3"
+  },
+  "pressure": 97308.68,
+  "altitude": 339.82,
+  "acceleration_x": 0.91,
+  "acceleration_y": 0.76,
+  "acceleration_z": 9.39,
+  "timestamp": {
+    "$date": "2024-12-18T13:34:11.350Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cf558c5537c5049622f5"
+  },
+  "pressure": 97306.08,
+  "altitude": 340.05,
+  "acceleration_x": 0.93,
+  "acceleration_y": 0.76,
+  "acceleration_z": 9.4,
+  "timestamp": {
+    "$date": "2024-12-18T13:34:13.501Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cf578c5537c5049622f7"
+  },
+  "pressure": 97305.31,
+  "altitude": 340.11,
+  "acceleration_x": 0.92,
+  "acceleration_y": 0.76,
+  "acceleration_z": 9.41,
+  "timestamp": {
+    "$date": "2024-12-18T13:34:15.600Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cf598c5537c5049622f9"
+  },
+  "pressure": 97306.84,
+  "altitude": 339.98,
+  "acceleration_x": 0.91,
+  "acceleration_y": 0.76,
+  "acceleration_z": 9.4,
+  "timestamp": {
+    "$date": "2024-12-18T13:34:17.802Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cf5b8c5537c5049622fb"
+  },
+  "pressure": 97305.31,
+  "altitude": 340.11,
+  "acceleration_x": 0.9,
+  "acceleration_y": 0.76,
+  "acceleration_z": 9.39,
+  "timestamp": {
+    "$date": "2024-12-18T13:34:19.952Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cf5e8c5537c5049622fd"
+  },
+  "pressure": 97299.36,
+  "altitude": 340.63,
+  "acceleration_x": 0.92,
+  "acceleration_y": 0.77,
+  "acceleration_z": 9.41,
+  "timestamp": {
+    "$date": "2024-12-18T13:34:22.059Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cf608c5537c5049622ff"
+  },
+  "pressure": 97306.84,
+  "altitude": 339.98,
+  "acceleration_x": 0.9,
+  "acceleration_y": 0.77,
+  "acceleration_z": 9.42,
+  "timestamp": {
+    "$date": "2024-12-18T13:34:24.254Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cf628c5537c504962301"
+  },
+  "pressure": 97304.26,
+  "altitude": 340.2,
+  "acceleration_x": 0.9,
+  "acceleration_y": 0.77,
+  "acceleration_z": 9.4,
+  "timestamp": {
+    "$date": "2024-12-18T13:34:26.402Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cf648c5537c504962303"
+  },
+  "pressure": 97306.08,
+  "altitude": 340.05,
+  "acceleration_x": 0.91,
+  "acceleration_y": 0.77,
+  "acceleration_z": 9.43,
+  "timestamp": {
+    "$date": "2024-12-18T13:34:28.659Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cf668c5537c504962305"
+  },
+  "pressure": 97301.66,
+  "altitude": 340.43,
+  "acceleration_x": 0.88,
+  "acceleration_y": 0.77,
+  "acceleration_z": 9.39,
+  "timestamp": {
+    "$date": "2024-12-18T13:34:30.908Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762cf698c5537c504962307"
+  },
+  "pressure": 97300.89,
+  "altitude": 340.49,
+  "acceleration_x": 0.91,
+  "acceleration_y": 0.76,
+  "acceleration_z": 9.41,
+  "timestamp": {
+    "$date": "2024-12-18T13:34:33.061Z"
+  },
+  "__v": 0
+}]

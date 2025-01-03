@@ -7,6 +7,7 @@ const WebSocket = require("ws"); // Add WebSocket support
 // MongoDB connection
 mongoose.connect("mongodb://localhost:27017/sensorData", {});
 
+// Define the data schema to include tool and direction
 const DataSchema = new mongoose.Schema({
   timestamp: { type: Date, default: Date.now },
   pressure: Number,
@@ -14,6 +15,8 @@ const DataSchema = new mongoose.Schema({
   acceleration_x: Number,
   acceleration_y: Number,
   acceleration_z: Number,
+  tool: String, // Add tool field
+  direction: String, // Add direction field
 });
 
 const Data = mongoose.model("Data", DataSchema);
@@ -57,6 +60,23 @@ app.get("/api/data", async (req, res) => {
     res.status(200).send(data);
   } catch (err) {
     res.status(400).send({ error: "Failed to fetch data." });
+  }
+});
+
+// GET endpoint for the latest tool and direction
+app.get("/api/state", async (req, res) => {
+  try {
+    const latestData = await Data.findOne().sort({ timestamp: -1 });
+    if (latestData) {
+      res.status(200).send({
+        tool: latestData.tool,
+        direction: latestData.direction,
+      });
+    } else {
+      res.status(404).send({ error: "No data available." });
+    }
+  } catch (err) {
+    res.status(400).send({ error: "Failed to fetch state data." });
   }
 });
 

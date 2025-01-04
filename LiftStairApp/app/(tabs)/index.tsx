@@ -7,7 +7,6 @@ import ParallaxScrollView from '@/components/ParallaxScrollView';
 
 export default function HomeScreen() {
   const [data, setData] = useState<any[]>([]);
-  const [buffer, setBuffer] = useState<any[]>([]);
   const [movement, setMovement] = useState<string>("Detecting...");
   const [tool, setTool] = useState<string>("Detecting...");
 
@@ -37,16 +36,29 @@ export default function HomeScreen() {
       try {
         const newData = JSON.parse(event.data);
 
-        // Update the buffer with new data (keep only the last 5 values)
-        setBuffer((prevBuffer) => {
-          const updatedBuffer = [...prevBuffer, newData].slice(-5);
-          if (updatedBuffer.length === 5) processData(updatedBuffer);
-          return updatedBuffer;
-        });
+        // Update state with received movement and tool values
+        if (newData.movement && newData.tool) {
+          setMovement(newData.movement);
+          setTool(newData.tool);
+
+          // Navigation logic based on received movement and tool
+          if (newData.tool === "Lift" && newData.movement === "Up") {
+            navigation.navigate("LiftUp");
+          } else if (newData.tool === "Lift" && newData.movement === "Down") {
+            navigation.navigate("LiftDown");
+          } else if (newData.tool === "Stairs" && newData.movement === "Up") {
+            navigation.navigate("GoingUp");
+          }
+          else if (newData.tool === "Stairs" && newData.movement === "Down") {
+            navigation.navigate("GoingDown");
+          }
+          else {
+              navigation.navigate("index");
+            }
+        }
 
         // Update the state with new data
         setData((prevData) => [newData, ...prevData]);
-
       } catch (err) {
         console.error("Error processing WebSocket message:", err);
       }
@@ -59,50 +71,7 @@ export default function HomeScreen() {
     return () => {
       ws.close();
     };
-  }, []);
-
-  // Function to calculate mean
-  const calculateMean = (values: number[]) => values.reduce((a, b) => a + b, 0) / values.length;
-
-  // Function to calculate variance
-  const calculateVariance = (values: number[], mean: number) =>
-    values.reduce((a, b) => a + Math.pow(b - mean, 2), 0) / values.length;
-
-  // Process the last 5 values
-  // Process the last 5 values
-const processData = (batch: any[]) => {
-  // Extract pressure and acceleration values for each axis
-  const pressures = batch.map(item => item.pressure);
-  const accelerationX = batch.map(item => item.acceleration_x);
-  const accelerationY = batch.map(item => item.acceleration_y);
-  const accelerationZ = batch.map(item => item.acceleration_z);
-
-  // Calculate mean and variance for pressure
-  const meanPressure = calculateMean(pressures);
-  const varPressure = calculateVariance(pressures, meanPressure);
-
-  // Calculate variance for each acceleration axis separately
-  const varAccelerationX = calculateVariance(accelerationX, calculateMean(accelerationX));
-  const varAccelerationY = calculateVariance(accelerationY, calculateMean(accelerationY));
-  const varAccelerationZ = calculateVariance(accelerationZ, calculateMean(accelerationZ));
-
-  // Movement detection logic based on variance of individual axes
-  let detectedMovement = "Stationary";
-  let detectedTool = "Void";
-
-  
-  if (varPressure > 0.3 && meanPressure < 1010) detectedTool = "Lift";
-
-  // If the variance of any acceleration axis exceeds a threshold, it indicates movement on stairs
-  if (varAccelerationX > 0.5 || varAccelerationY > 0.3 || varAccelerationZ > 0.5) {
-    detectedTool = "Stairs";
-  }
-
-  // Set the detected movement in state
-  setMovement(detectedMovement);
-  setTool(detectedTool);
-};
-
+  }, [navigation]);
 
   return (
     <ParallaxScrollView
@@ -124,7 +93,7 @@ const processData = (batch: any[]) => {
         <ThemedView style={styles.movementContainer}>
           <ThemedText type="subtitle">Detected Movement:</ThemedText>
           <ThemedText style={styles.movementText}>{movement}</ThemedText>
-          <ThemedText type="subtitle">Detected tool:</ThemedText>
+          <ThemedText type="subtitle">Detected Tool:</ThemedText>
           <ThemedText style={styles.movementText}>{tool}</ThemedText>
         </ThemedView>
 
@@ -182,4 +151,3 @@ const styles = StyleSheet.create({
     marginBottom: 12,
   },
 });
-

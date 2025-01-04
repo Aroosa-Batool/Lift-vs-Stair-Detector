@@ -15,10 +15,9 @@ const DataSchema = new mongoose.Schema({
   acceleration_x: Number,
   acceleration_y: Number,
   acceleration_z: Number,
-  tool: String, // Add tool field
-  direction: String, // Add direction field
+  tool: { type: String, default: "Unknown" },  // Ensuring default value
+  movement: { type: String, default: "Unknown" },  // Ensuring default value
 });
-
 const Data = mongoose.model("Data", DataSchema);
 
 const app = express();
@@ -70,7 +69,7 @@ app.get("/api/state", async (req, res) => {
     if (latestData) {
       res.status(200).send({
         tool: latestData.tool,
-        direction: latestData.direction,
+        movement: latestData.movement,
       });
     } else {
       res.status(404).send({ error: "No data available." });

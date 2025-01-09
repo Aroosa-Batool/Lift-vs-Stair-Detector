@@ -10,7 +10,7 @@ const GoingDown = () => {
         <FontAwesome5 name="angle-double-down" size={100} color="#530430" />
       </View>
       {/* Title */}
-      <Text style={styles.title}>You're Going Down!</Text>
+      <Text style={styles.title}>You're Going Down using stairs!</Text>
       {/* Arrow GIF */}
       <Image
         source={{

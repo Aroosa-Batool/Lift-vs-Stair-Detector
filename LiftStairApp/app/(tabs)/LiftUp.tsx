@@ -10,7 +10,7 @@ const LiftUp = () => {
       <FontAwesome5 name="chevron-up" size={100} color="#530430" />
       </View>
       {/* Title */}
-      <Text style={styles.title}>You're Going Up!</Text>
+      <Text style={styles.title}>You're Going Up using Lift!</Text>
       {/* Arrow GIF */}
       <Image
         source={{

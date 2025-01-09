@@ -10,7 +10,7 @@ const GoingUp = () => {
         <FontAwesome5 name="chevron-up" size={100} color="#530430" />
       </View>
       {/* Title */}
-      <Text style={styles.title}>You're Going Up!</Text>
+      <Text style={styles.title}>You're Going Up using stairs!</Text>
       {/* Arrow GIF */}
       <Image
         source={{
@@ -19,7 +19,7 @@ const GoingUp = () => {
         style={styles.arrow}
       />
       {/* Subtitle */}
-      <Text style={styles.subtitle}>Stay safe and enjoy your journey!</Text>
+      <Text style={styles.subtitle}>Stay safe and enjoy your journey with stairs!</Text>
     </View>
   );
 };

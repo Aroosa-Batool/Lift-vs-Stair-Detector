@@ -32,10 +32,12 @@ This project implements a smart system to distinguish between elevator and stair
 2. Install dependencies:
     ```bash
     npm install
-3. Start the expo go:
+3. Replace app/(tabs)/SensorScreen line # 5  with ESP32's latest IP
+    
+4. Start the expo go:
     ```bash
     npx expo start
-4. Program the ESP32 using the provided Arduino code in the algorithm directory.
+5. Program the ESP32 using the provided Arduino code(change the WiFi credentials) in the BoardCode directory.
 
 
 ## Contributing  

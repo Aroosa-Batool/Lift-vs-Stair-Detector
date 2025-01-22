@@ -110,7 +110,7 @@ void loop() {
                 String movement = "Not Moving";
                 String tool = "Stationary";
                 if(PressureVariance < 100 && altitudeVariance < 0.6){
-                  if(Gvariance  > 0.1){
+                  if(Gvariance  > 0.08){
                   tool = "Stairs";
                 } else tool = "stationary";
 

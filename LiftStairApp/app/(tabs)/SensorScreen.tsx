@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { View, Text, StyleSheet, ScrollView } from 'react-native';
 import { useNavigation } from '@react-navigation/native'; // Import navigation hook
 
-const ESP32_IP = 'http://192.168.0.103:8081'; // Replace with ESP32's actual IP
+const ESP32_IP = 'http://192.168.0.101:8081'; // Replace with ESP32's actual IP
 
 const SensorDataScreen = () => {
   const [sensorData, setSensorData] = useState({});

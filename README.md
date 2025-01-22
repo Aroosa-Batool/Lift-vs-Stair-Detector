@@ -28,10 +28,9 @@ This project implements a smart system to distinguish between elevator and stair
 1. Clone this repository:  
    ```bash
    git clone https://github.com/Aroosa-Batool/Lift-vs.-Stair-Detector.git
-   cd lift-vs-stair-detector
-2. Install dependencies for the backend:
+   cd LiftStairApp
+2. Install dependencies:
     ```bash
-    cd backend
     npm install
 3. Start the expo go:
     ```bash

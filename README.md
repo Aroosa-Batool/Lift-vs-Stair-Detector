@@ -1,4 +1,5 @@
 # Lift-vs.-Stair-Detector
+
 This project implements a smart system to distinguish between elevator and stair usage using the **Lolin32 Lite (ESP32)**, a **BME280 pressure sensor**, and an **accelerometer MPU6050**. The system uses real-time sensor data to determine user behavior based on altitude changes and motion patterns, logging the data for visualization via a **React Native** mobile app built with **Expo Go**.
 
 ## Features  
